@@ -20,7 +20,7 @@ const BookIDs = () => {
         setLoading(true);
         setError(null);
        
-        const response = await fetch(`../../api/BookInfo/${id}.json`);
+        const response = await fetch(`/src/api/BookInfo/${id}.json`);
         
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
