@@ -1,0 +1,72 @@
+{
+    "id": 7,
+    "title": "Harry Potter and the Deathly Hallows",
+    "image": "/public/Images/Book/7.png",
+    "year": 2007,
+    "pages": 607,
+    "genre": ["Fantasy", "War Drama", "Mystery"],
+    "author": "J.K. Rowling",
+    "prequel": "Harry Potter and the Half-Blood Prince",
+    "main_characters": [
+      "Harry Potter",
+      "Ron Weasley",
+      "Hermione Granger",
+      "Albus Dumbledore (posthumous)",
+      "Severus Snape",
+      "Lord Voldemort"
+    ],
+    "villains": [
+      "Lord Voldemort",
+      "Bellatrix Lestrange",
+      "Fenrir Greyback",
+      "Pius Thicknesse (Imperiused)"
+    ],
+    "inside_images": [
+      {
+        "url": "/public/Images/BookIdsImage/7thbook/ministry_heist.png",
+        "caption": "Disguised as Ministry workers, the trio infiltrate the now-fascist regime."
+      },
+      {
+        "url": "/public/Images/BookIdsImage/7thbook/horcrux_locket.png",
+        "caption": "The cursed locket Horcrux feeds on Ron's deepest insecurities."
+      },
+      {
+        "url": "/public/Images/BookIdsImage/7thbook/snape_memories.png",
+        "caption": "Snape's memories in the Pensieve reveal a lifetime of love and sacrifice."
+      },
+      {
+        "url": "/public/Images/BookIdsImage/7thbook/final_showdown.png",
+        "caption": "The Great Hall battlefield - where light and dark clash for the last time."
+      }
+    ],
+    "summary": [
+      {
+        "paragraph1": "Harry Potter and the Deathly Hallows begins with a war-torn wizarding world - Voldemort's Death Eaters have seized the Ministry, Muggle-borns are rounded up for 'trials,' and Hogwarts falls under Snape's control. Rather than returning to school, Harry, Ron and Hermione disappear into the wilderness, hunting Horcruxes with only Dumbledore's cryptic clues to guide them. Their first mission: infiltrate the Ministry to recover Salazar Slytherin's locket from Dolores Umbridge's grasping neck."
+      },
+      {
+        "paragraph2": "As the trio apparates between forests and hideouts, the weight of their task becomes crushing - the locket Horcrux poisons their minds, Ron abandons them in a fit of jealousy, and they uncover the legend of the Deathly Hallows: three objects promising mastery over death. Meanwhile, Voldemort steals the Elder Wand from Dumbledore's tomb, unaware that its allegiance may lie elsewhere."
+      },
+      {
+        "paragraph3": "The revelation comes in a silver doe's glow - Harry discovers Snape's true loyalty through tear-streaked memories in the Pensieve. Racing to Hogwarts for the final Horcrux, the trio triggers the Battle of Hogwarts. In the chaos, Fred, Lupin, Tonks and others fall, while Harry learns he himself is an accidental Horcrux. Walking willingly to his death in the Forbidden Forest, he survives Voldemort's killing curse due to Snape's last gift - a resurrection stone reunion with his parents, Sirius and Lupin."
+      },
+      {
+        "paragraph4": "The saga ends where it began - in the rubble of Hogwarts, where Neville kills Nagini, Molly Weasley destroys Bellatrix, and Harry defeats Voldemort with Expelliarmus, the Elder Wand refusing to harm its true master. Nineteen years later, as parents send their own children to Hogwarts, the scar hasn't pained Harry in years - 'All was well.' Deathly Hallows proves that true power lies not in immortality, but in accepting mortality with courage and love."
+      }
+    ],
+    "suspense_elements": [
+      "Which objects are Horcruxes?",
+      "Who does the Elder Wand truly belong to?",
+      "Snape's shocking true allegiance",
+      "The meaning of 'The Prince's Tale'",
+      "Why Harry's connection to Voldemort weakens"
+    ],
+    "interesting_facts": [
+      "Rowling wrote the final chapter first (in 1990!)",
+      "Hermione was originally supposed to die",
+      "The Deathly Hallows symbol appears in Book 1 (on Luna's dad's necklace)",
+      "Harry's walk to death was inspired by Gandalf's 'Fly, you fools!'",
+      "The epilogue was the most rewritten section"
+    ],
+
+     "download_link": "/public/PDFs/7.pdf"
+  }

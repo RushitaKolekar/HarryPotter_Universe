@@ -1,0 +1,53 @@
+{
+    "id": 3,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "image": "/public/Images/Book/3.png",
+    "year": 1999,
+    "pages": 317,
+    "genre": ["Fantasy", "Mystery", "Thriller"],
+    "author": "J.K. Rowling",
+    "main_characters": ["Harry Potter", "Hermione Granger", "Ron Weasley", "Sirius Black", "Remus Lupin"],
+    "villains": ["Sirius Black (Fakeout)", "Peter Pettigrew", "Dementors"],
+    "inside_images": [
+      {
+        "url": "/public/Images/BookIdsImage/3rdbook/HogwartExpAttack.png",
+        "caption":"Dementors attack on the Hogwarts Express—Harry’s first encounter."
+      },
+      {
+        "url": "/public/Images/BookIdsImage/3rdbook/murdererMap.png",
+        "caption": "The Marauder’s Map reveals the castle’s secrets—who’s in the castle? ... Peter Pettigrew?"
+      },
+      {
+        "url": "/public/Images/BookIdsImage/3rdbook/godFatherAttack.png",
+        "caption": "Harry’s Patronus—his father’s spirit protecting him from Dementors."
+      }
+    ],
+    "summary": [
+  {
+    "paragraph1": "Harry Potter's third year at Hogwarts begins with explosive news — the mass murderer Sirius Black has escaped Azkaban, and he's coming for Harry. As Dementors, the soul-sucking guards of the wizard prison, swarm Hogwarts to protect him, Harry learns a chilling truth: Black betrayed his parents to Voldemort. Now, with a notorious killer stalking the castle grounds and Dementors triggering Harry's worst memories, the school becomes a gothic battleground between safety and lurking horror."
+  },
+  {
+    "paragraph2": "Amidst the terror, Harry finds an unlikely ally in new Defense Against the Dark Arts professor Remus Lupin, who teaches him the Patronus Charm to repel Dementors. But mysteries multiply — why does the shrieking Shack scream every full moon? What connects Lupin, the escaped Black, and the traitor Peter Pettigrew? And why does Harry keep seeing a giant spectral dog, an omen of death? The answers lie in the Marauder's Map, a magical document that reveals secret passages... and someone who should be dead."
+  },
+  {
+    "paragraph3": "The truth explodes in a whirlwind confrontation: the 'dog' is Sirius Black in Animagus form, Lupin is a werewolf, and Ron's rat Scabbers is actually Peter Pettigrew — the real traitor who framed Sirius. In a heart-stopping climax at the Whomping Willow, Harry must choose between vengeance and mercy as time runs out. With Dementors descending to deliver the Kiss, a mysterious figure casts a Patronus — a glowing stag that mirrors Harry's deepest connection to his lost father."
+  },
+  {
+    "paragraph4": "The year ends with a time-bending miracle as Harry and Hermione use a Time-Turner to rescue Sirius and the hippogriff Buckbeak, rewriting what seemed inevitable. For the first time, Harry has a chance at family with his godfather... but dark revelations linger. Pettigrew escapes to rejoin Voldemort, Lupin resigns, and Harry learns that even heroes like his father had shadows. The game is changing — and so is Harry's understanding of good, evil, and the sacrifices between."
+  }
+],
+    "suspense_elements": [
+      "Is Sirius Black a murderer or victim?",
+      "Why do Dementors affect Harry so strongly?",
+      "The mystery of the Marauder’s Map creators.",
+      "Lupin’s suspicious absences during full moons."
+    ],
+    "interesting_facts": [
+      "Rowling based Lupin’s werewolf condition on her struggles with chronic illness.",
+      "The Marauders’ nicknames (Padfoot, Prongs, etc.) took years to develop.",
+      "Originally, Lupin was going to die in this book.",
+      "The Time-Turner plot inspired Cursed Child’s time travel."
+    ],
+
+     "download_link": "/public/PDFs/3.pdf"
+  }

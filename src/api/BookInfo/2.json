@@ -1,0 +1,56 @@
+{
+    "id": 2,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "image": "/public/Images/Book/2.png",
+    "year": 1998,
+    "pages": 251,
+    "genre": ["Fantasy", "Horror", "Mystery"],
+    "author": "J.K. Rowling",
+    "prequel": "Harry Potter and the Philosopher's Stone",
+    "main_characters": ["Harry Potter", "Ron Weasley", "Hermione Granger", "Gilderoy Lockhart", "Tom Riddle"],
+    "villains": ["Tom Riddle (Young Voldemort)", "Basilisk", "Lucius Malfoy"],
+    "inside_images": [
+      {
+        "url": "/public/Images/BookIdsImage/2ndbook/chamberBloodMsg.png",
+        "caption": "Chamber of Secrets message: 'The Chamber of Secrets has been opened.'"
+      },
+      {
+        "url": "/public/Images/BookIdsImage/2ndbook/spiders.png",
+        "caption": "Spiders in the Forbidden Forest: 'Follow the spiders!'"
+      },
+      
+      {
+        "url": "/public/Images/BookIdsImage/2ndbook/chamber.png",
+        "caption": "Chamber of Secrets: 'The monster is in the Chamber!'" 
+      }
+    ],
+
+   "summary": [
+  {
+    "paragraph1": "Harry Potter's second year at Hogwarts begins with a warning - a mischievous house-elf named Dobby appears in his bedroom, begging him not to return to school because 'terrible things will happen.' Ignoring the warning (and escaping the Dursleys in a flying Ford Anglia), Harry arrives at Hogwarts only to find students being mysteriously petrified, sinister messages written in blood on the walls, and rumors spreading about the legendary Chamber of Secrets being reopened."
+  },
+  {
+    "paragraph2": "As Hogwarts descends into panic, Harry discovers he can hear a haunting voice in the walls - a voice no one else can hear. Teaming up with Ron and Hermione (now armed with a genius-level knowledge of magical creatures), they investigate the Chamber's dark history and Salazar Slytherin's monstrous heir. Suspicion falls on Harry when his Parseltongue ability is revealed, while the incompetent Gilderoy Lockhart takes credit for others' bravery and a ghost named Moaning Myrtle haunts the chaos with her tragic backstory."
+  },
+  {
+    "paragraph3": "The mystery reaches its fever pitch when Hermione is petrified, leaving behind a crucial clue. Following a trail of spiders into the Forbidden Forest and confronting Aragog the acromantula, Harry and Ron discover the monster is a Basilisk - a giant serpent whose gaze kills. The shocking truth emerges when Ginny Weasley disappears into the Chamber, possessed by Tom Riddle's enchanted diary - a memory of Voldemort's younger self that's been draining her life force to regain form."
+  },
+  {
+    "paragraph4": "In a climactic duel in the Chamber's depths, Harry destroys both the Basilisk and Riddle's diary with Godric Gryffindor's sword and a phoenix's help. The diary's destruction reveals Lucius Malfoy's plot to purge Muggle-borns from Hogwarts, while setting up a greater mystery: this was no ordinary diary, but a Horcrux - Voldemort's first dark secret that Harry will spend years unraveling. The year ends with Dobby freed by Harry's clever trickery, proving that even the smallest magic can topple the mightiest prejudices."
+  }
+],
+
+    "suspense_elements": [
+      "Who is the Heir of Slytherin?",
+      "The mystery of Moaning Myrtle’s death.",
+      "The diary’s dark magic."
+    ],
+    "interesting_facts": [
+        "The Ford Anglia used in the film was a real car modified to fly.",
+        "Moaning Myrtle’s actress was 37 years old when playing the 14-year-old ghost.",
+        "Rowling based the Basilisk on the mythical cockatrice.",
+        "Dobby’s design was inspired by house-elf descriptions in English folklore."
+      ],
+
+      "download_link": "/public/PDFs/2.pdf"
+  }

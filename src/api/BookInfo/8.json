@@ -1,0 +1,67 @@
+{
+  "id": 8,
+  "title": "Harry Potter and the Cursed Child",
+  "image": "/public/Images/Book/8.png",
+  "year": 2016,
+  "pages": 330,
+  "genre": ["Fantasy", "Drama", "Time-Travel"],
+  "author": "J.K. Rowling, John Tiffany, Jack Thorne",
+  "prequel": "Harry Potter and the Deathly Hallows",
+  "main_characters": [
+    "Harry Potter",
+    "Albus Severus Potter",
+    "Scorpius Malfoy",
+    "Hermione Granger",
+    "Ron Weasley",
+    "Draco Malfoy"
+  ],
+  "villains": [
+    "Delphi Diggory (The Augurey)",
+    "Voldemort (alternate timeline)",
+    "Cedric Diggory (Dark timeline)"
+  ],
+  "inside_images": [
+    {
+      "url": "/public/Images/BookIdsImage/8thbook/time_turner-heist.png",
+      "caption": "Albus and Scorpius stealing the Time-Turner - the moment everything changes."
+    },
+    {
+      "url": "/public/Images/BookIdsImage/8thbook/dark_ministry.png",
+      "caption": "Alternate reality: A world where Voldemort won and Harry is dead."
+    },
+    {
+      "url": "/public/Images/BookIdsImage/8thbook/snape_portait.png",
+      "caption": "Severus Snape's portrait returns in a heartbreaking cameo."
+    }
+  ],
+  "summary": [
+    {
+      "paragraph1": "Nineteen years after the Battle of Hogwarts, Harry Potter is now an overworked Ministry employee struggling to connect with his youngest son Albus, who feels crushed by the Potter legacy. On the Hogwarts Express, Albus befriends Scorpius Malfoy - a kind but rumored-to-be-Voldemort's-son outcast. When Albus overhears Harry lamenting about Cedric Diggory's death, he becomes obsessed with using a stolen Time-Turner to rewrite history and restore his father's respect."
+    },
+    {
+      "paragraph2": "Their first trip to the Triwizard Tournament creates catastrophic ripple effects - a humiliated Cedric becomes a Death Eater, Hermione never marries Ron, and Albus vanishes from existence. In a desperate second attempt, Scorpius finds himself alone in a nightmare world where Voldemort rules, Harry is dead, and Hogwarts is a dystopian prison. Only by convincing a hardened Hermione and Ron to help does he restore the timeline."
+    },
+    {
+      "paragraph3": "The shocking truth emerges: Delphi Diggory, their mysterious ally, is actually Voldemort and Bellatrix's secret daughter, manipulating events to resurrect her father. In a climactic showdown at Godric's Hollow, Harry and Draco join forces to protect their sons as Delphi tries to prevent baby Harry's survival. The timeline is saved, but not without cost - Scorpius loses his mother in the reset, and Harry finally understands Albus's need to forge his own path."
+    },
+    {
+      "paragraph4": "This theatrical epilogue explores how legacy shapes identity, proving that children must write their own stories rather than relive their parents' battles. The Cursed Child reminds us that even happily-ever-afters require constant work, and that sometimes the bravest choice is to accept the past rather than change it."
+    }
+  ],
+  "suspense_elements": [
+    "Is Scorpius really Voldemort's son?",
+    "The horror of Voldemort's victory timeline",
+    "Delphi's true identity reveal",
+    "Will Albus disappear from existence?",
+    "Can Snape's portrait help save the day?"
+  ],
+  "interesting_facts": [
+    "Originally staged with spectacular magical effects (Dementors flying over audience)",
+    "Scorpius was almost cut for being 'too likable' compared to Draco",
+    "The trolley witch reveals she's an ancient, near-indestructible guardian",
+    "Alternate Cedric's fate sparked major fan debates",
+    "Rowling considers this 'canon' despite time-travel logic issues"
+  ],
+
+   "download_link": "/public/PDFs/8.pdf"
+}

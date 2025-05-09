@@ -1,0 +1,72 @@
+{
+    "id": 6,
+    "title": "Harry Potter and the Half-Blood Prince",
+    "image": "/public/Images/Book/6.png",
+    "year": 2005,
+    "pages": 607,
+    "genre": ["Fantasy", "Mystery", "Dark Academia"],
+    "author": "J.K. Rowling",
+    "prequel": "Harry Potter and the Order of the Phoenix",
+    "main_characters": [
+      "Harry Potter",
+      "Ron Weasley",
+      "Hermione Granger",
+      "Albus Dumbledore",
+      "Severus Snape",
+      "Horace Slughorn"
+    ],
+    "villains": [
+      "Lord Voldemort",
+      "Severus Snape (?)",
+      "Draco Malfoy",
+      "Bellatrix Lestrange"
+    ],
+    "inside_images": [
+      {
+        "url": "/public/Images/BookIdsImage/6thbook/visitMemoryTom.png",
+        "caption": "Dumbledore and Harry dive into the swirling memories of Tom Riddle's past."
+      },
+      {
+        "url": "/public/Images/BookIdsImage/6thbook/felixLiquid.png",
+        "caption": "Harry's Felix Felicis-fueled golden glow - liquid luck in action."
+      },
+      {
+        "url": "/public/Images/BookIdsImage/6thbook/potion.png",
+        "caption": "The inferi-filled cave - Dumbledore weakened after drinking the potion."
+      },
+      {
+        "url": "/public/Images/BookIdsImage/6thbook/deathAlbus.png",
+        "caption": "The fateful Astronomy Tower where loyalties shatter."
+      }
+    ],
+    "summary": [
+      {
+        "paragraph1": "Harry Potter and the Half-Blood Prince opens with a wizarding world at war - Death Eaters attack Muggles openly, the Ministry is compromised, and Dumbledore personally retrieves Harry from Privet Drive. At Hogwarts, Harry receives a used Potions textbook filled with ingenious (and dangerous) annotations signed by the mysterious 'Half-Blood Prince,' while Dumbledore begins private lessons exposing Tom Riddle's dark transformation into Voldemort through mesmerizing Pensieve memories."
+      },
+      {
+        "paragraph2": "As Harry masters advanced magic and uncovers Voldemort's obsession with immortality through Horcruxes, Hogwarts simmers with teenage drama - Ron's Quidditch fame sparks Lavender Brown's obsession, Hermione's jealousy simmers, and Harry finds himself unexpectedly drawn to Ginny. Meanwhile, Draco Malfoy disappears for secret missions, repairing a vanishing cabinet with ominous purpose under Snape's watchful eye."
+      },
+      {
+        "paragraph3": "The year crescendos with a deadly mission - Dumbledore and Harry infiltrate a seaside cave protected by Dark magic to retrieve a fake Horcrux. Weakened by the ordeal, they return to find the Dark Mark over Hogwarts. On the Astronomy Tower, as Death Eaters invade, Snape delivers the killing blow to Dumbledore with Harry frozen under his Invisibility Cloak - the shocking fulfillment of an Unbreakable Vow."
+      },
+      {
+        "paragraph4": "This devastating turning point ends with Dumbledore's funeral, the Elder Wand buried with him, and Harry abandoning Hogwarts to hunt Horcruxes. The Half-Blood Prince reveals that even the brightest minds can be corrupted, the deepest secrets hide in plain sight (Snape's textbook), and that true power often comes from accepting difficult truths rather than chasing immortality."
+      }
+    ],
+    "suspense_elements": [
+      "Who is the Half-Blood Prince?",
+      "What mission has Draco been given?",
+      "The contents of Snape's Unbreakable Vow",
+      "Why Dumbledore's hand is blackened",
+      "The significance of 'R.A.B.'"
+    ],
+    "interesting_facts": [
+      "Rowling cried for a full day after writing Dumbledore's death",
+      "The cave scene was inspired by a nightmare Rowling had",
+      "Snape's 'Prince' identity references his mother's maiden name (Prince)",
+      "This book contains the first Harry/Ginny kiss",
+      "The original draft had a different opening (later moved to Book 7)"
+    ],
+
+     "download_link": "/public/PDFs/6.pdf"
+  }

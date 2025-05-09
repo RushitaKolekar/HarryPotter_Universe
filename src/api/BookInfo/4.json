@@ -1,0 +1,55 @@
+{
+    "id": 4,
+    "title": "Harry Potter and the Goblet of Fire",
+    "image": "/public/Images/Book/4.png",
+    "year": 2000,
+    "pages": 636,
+    "genre": ["Fantasy", "Adventure", "Thriller"],
+    "author": "J.K. Rowling",
+    "main_characters": ["Harry Potter", "Ron Weasley", "Hermione Granger", "Cedric Diggory", "Mad-Eye Moody"],
+    "villains": ["Lord Voldemort", "Barty Crouch Jr. (Disguised as Moody)", "Peter Pettigrew"],
+    "inside_images": [
+      {
+        "url": "/public/Images/BookIdsImage/4thbook/triwizardCup.png",
+        "caption": "The triwizard cup — more than just a trophy."
+      },
+      {
+        "url": "/public/Images/BookIdsImage/4thbook/dragon.png",
+        "caption": "Dragons in the first task—fire-breathing and terrifying."
+      },
+      {
+        "url": "/public/Images/BookIdsImage/4thbook/reborthHim.png",
+        "caption": "Voldemort’s rebirth—bone, flesh, and blood ritual."
+      }
+    ],
+    
+      "summary": [
+        {
+          "paragraph1": "Harry Potter and the Goblet of Fire begins with a nightmare come to life - the Quidditch World Cup erupts in flames as Death Eaters terrorize the campsite, their Dark Mark blazing in the sky. But the real horror starts when Harry's name mysteriously shoots from the Goblet of Fire, binding him to compete in the deadly Triwizard Tournament against older students. Suddenly, the boy who lived becomes the boy no one believes - not even his best friend Ron - as whispers of cheating and conspiracy swirl through Hogwarts."
+        },
+        {
+          "paragraph2": "From the moment Harry faces a fire-breathing Hungarian Horntail in the first task, it's clear this is no ordinary school competition. Between dodging dragons, rescuing friends from merpeople, and navigating a maze of nightmares, Harry uncovers darker secrets: the new Defense teacher 'Mad-Eye Moody' watches him with eerie intensity, Rita Skeeter's poisonous quill twists truth into lies, and his scar burns with visions of a growing threat only he can see. Even the Yule Ball's glittering surface hides shifting alliances and teenage heartbreak."
+        },
+        {
+          "paragraph3": "The truth explodes in a graveyard of nightmares. The Triwizard Cup was a trap - a Portkey that transports Harry and Cedric Diggory straight to Voldemort's waiting circle. 'Kill the spare,' comes the cold command, and Cedric falls with barely a sound. Then, in a cauldron of bone and blood, the Dark Lord rises anew - his snakelike form more terrible than Harry's worst dreams. Their wands lock in a deadly embrace, ghostly echoes of Voldemort's victims spilling into the night, until Harry barely escapes with Cedric's body and a warning no one wants to hear."
+        },
+        {
+          "paragraph4": "This turning-point story shatters the wizarding world's fragile peace. The Ministry denies Voldemort's return, Dumbledore secretly rebuilds the Order of the Phoenix, and Harry returns to Privet Drive with more than summer homework - he carries the weight of a prophecy, a martyr's body, and the terrible knowledge that the war has begun. The Goblet of Fire proves that even a game meant for glory can become a weapon in the right (or wrong) hands."
+        }
+      ],
+
+    "suspense_elements": [
+      "Who put Harry’s name in the Goblet?",
+      "Why is Moody helping Harry?",
+      "The eerie graveyard dream sequences.",
+      "Rita Skeeter’s illegal Animagus form."
+    ],
+    "interesting_facts": [
+      "The book’s darker tone led to midnight release parties.",
+      "Cedric’s death marked the series’ shift to YA themes.",
+      "Rowling cried while writing the graveyard scene.",
+      "The maze was inspired by M.C. Escher’s impossible staircases."
+    ],
+
+     "download_link": "/public/PDFs/4.pdf"
+  }

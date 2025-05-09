@@ -1,0 +1,52 @@
+{
+    "id": 7.1,
+    "title": "Harry Potter and the Deathly Hallows – Part 1",
+    "image": "/public/Images/MovieCover/7th_DeathlyFallow.jpg",
+    "release_year": 2010,
+    "runtime": {
+      "minutes": 146,
+      "formatted": "2h 26m"
+    },
+    "director": "David Yates",
+    "main_cast": {
+      "Harry Potter": "Daniel Radcliffe",
+      "Hermione Granger": "Emma Watson",
+      "Ron Weasley": "Rupert Grint",
+      "Albus Dumbledore": "Michael Gambon",
+      "Severus Snape": "Alan Rickman",
+      "Lord Voldemort": "Ralph Fiennes",
+      "Bellatrix Lestrange": "Helena Bonham Carter",
+      "Rufus Scrimgeour": "Bill Nighy"
+    },
+    "trailer": {
+      "youtube_url": "https://www.youtube.com/watch?v=Su1LOpjvdZ4",
+      "description": "No Hogwarts. No safety. The beginning of the end in this haunting trailer"
+    },
+    "summary": "With Voldemort seizing control of the Ministry, Harry, Ron and Hermione abandon Hogwarts to hunt Horcruxes under constant threat. Their perilous journey takes them through wilderness hideouts, a terrifying infiltration of the Ministry (now under fascist rule), and Godric's Hollow where Harry's parents died. Tensions rise as the mysterious Deathly Hallows legend emerges - three objects that together make one master of death. The trio's friendship fractures when the Horcrux locket preys on Ron's insecurities, driving him to abandon the mission. After recovering the Sword of Gryffindor with help from a silver doe Patronus, Harry and Hermione visit Xenophilius Lovegood, learning the Hallows symbol's meaning just as Snatchers capture them. At Malfoy Manor, Bellatrix tortures Hermione while Dobby arrives for a dramatic rescue. The film ends with Voldemort breaking into Dumbledore's tomb to steal the Elder Wand, and our heroes watching in horror as he literally holds the wizarding world's fate in his hands.",
+    "key_images": [
+      {
+        "url": "/public/Images/MovieIdsImage/7thMovie/trio.png",
+        "caption": "The trio disguised as Ministry workers in the fascist-controlled Wizarding government"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/7thMovie/tent_dance.png",
+        "caption": "Harry and Hermione's poignant dance to 'O Children' in their lonely tent"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/7thMovie/locket_horror.png",
+        "caption": "The Horcrux locket's psychological attack on Ron during their darkest night"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/7thMovie/silver_doe.png",
+        "caption": "The ethereal silver doe leading Harry to the Sword of Gryffindor in the frozen pond"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/7thMovie/malfoy_manor.png",
+        "caption": "Hermione being tortured by Bellatrix as Harry and Ron listen helplessly below"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/7thMovie/dobby_death.png",
+        "caption": "Dobby's tragic death on the windswept beach - 'Here lies a free elf'"
+      }
+    ]
+  }

@@ -1,0 +1,55 @@
+{
+    "id": 1,
+    "title": "Harry Potter and the Philosopher's Stone",
+    "image": "/public/Images/Book/1.png",
+    "year": 1997,
+    "pages": 223,
+    "genre": ["Fantasy", "Adventure", "Mystery"],
+    "author": "J.K. Rowling",
+    "prequel": null,
+    "main_characters": ["Harry Potter", "Ron Weasley", "Hermione Granger", "Albus Dumbledore", "Rubeus Hagrid"],
+    "villains": ["Lord Voldemort (Quirrell)", "Severus Snape (Red Herring)", "Draco Malfoy"],
+    "inside_images": [
+      {
+        "url": "/public/Images/BookIdsImage/1stbook/friends.png",
+        "caption": "Harry Potter, Ron Weasley, and Hermione Granger—friends for life."
+      },
+      {
+        "url": "/public/Images/BookIdsImage/1stbook/mirror.png",
+        "caption": "Harry discovers the Mirror of Erised—his deepest desire."
+      },
+      {
+        "url": "/public/Images/BookIdsImage/1stbook/chessBoardChamber.png",
+        "caption": "ChessBoard Chamber —where strategy and bravery collide."
+      }
+    ],
+    
+      "summary": [
+        {
+          "paragraph1": "Harry Potter and the Philosopher's Stone begins with a lonely boy living under the stairs, unaware that his miserable existence is about to change forever. On his eleventh birthday, the gentle giant Hagrid crashes into his life with an impossible revelation: 'Yer a wizard, Harry!' Suddenly, Harry discovers he's famous in a hidden magical world, his parents were powerful wizards murdered by the dark lord Voldemort, and he's been invited to attend Hogwarts School of Witchcraft and Wizardry."
+        },
+        {
+          "paragraph2": "From the moment Harry steps into Diagon Alley to buy his first wand, the ordinary world fades away. At Hogwarts, he finds true friendship in Ron Weasley and Hermione Granger, faces the sneering Draco Malfoy, and learns to fly a broomstick with breathtaking skill. But beneath the wonder lurks danger - why does Professor Snape seem to hate him so much? What's hidden behind the forbidden third-floor corridor? And who is really trying to steal the mysterious Philosopher's Stone?"
+        },
+        {
+          "paragraph3": "The truth comes in a heart-stopping climax when Harry discovers the stuttering Professor Quirrell is not what he seems, with Voldemort himself clinging to life on the back of Quirrell's head. In a battle of wills and magic, Harry's mother's sacrificial love proves to be his greatest protection, burning Quirrell at the touch. With the Stone safe and Voldemort thwarted again, Harry returns to the Dursleys a changed boy - no longer an outcast, but a young wizard who has found his place in the world, and the first glimmer of his incredible destiny."
+        },
+        {
+          "paragraph4": "This magical debut introduces us to a world where paintings move, staircases change direction, and a simple game of chess can mean life or death - setting the stage for an epic battle between good and evil that will grow darker with each passing year. The Philosopher's Stone proves that even the smallest person (living in a cupboard) can change the course of the future."
+        }
+      ],
+
+    "suspense_elements": [
+      "Who is trying to steal the Stone?",
+      "Is Snape a villain or an ally?",
+      "The forbidden third-floor corridor."
+    ],
+    "interesting_facts": [
+    
+    "Hagrid was originally supposed to have a Scottish accent in the books but later changed to West Country.",
+    "The Mirror of Erised’s name comes from 'desire' spelled backward.",
+    "Nicolas Flamel, the Stone’s creator, was a real 14th-century alchemist."
+  ],
+
+   "download_link": "/public/PDFs/1.pdf"
+  }

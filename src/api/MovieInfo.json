@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "image": "/Images/MovieCover/1stMovie.jpg",
+      "release_year": 2001,
+      "runtime_hr": "2 hours 32 minutes"
+    },
+    {
+      "id": 2,
+      "title": "Harry Potter and the Chamber of Secrets",
+      "image": "/Images/MovieCover/2nd_movie.jpg",
+      "release_year": 2002,
+      "runtime_hr": "2 hours 41 minutes"
+    },
+    {
+      "id": 3,
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "image": "/Images/MovieCover/3rd_Prisoner.jpg",
+      "release_year": 2004,
+      "runtime_hr": "2 hours 22 minutes"
+    },
+    {
+      "id": 4,
+      "title": "Harry Potter and the Goblet of Fire",
+      "image": "/Images/MovieCover/4th_GobletFire.jpg",
+      "release_year": 2005,
+      "runtime_hr": "2 hours 37 minutes"
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter and the Order of the Phoenix",
+      "image": "/Images/MovieCover/5th_OrderPhoneix.jpg",
+      "release_year": 2007,
+      "runtime_hr": "2 hours 18 minutes"
+    },
+    {
+      "id": 6,
+      "title": "Harry Potter and the Half-Blood Prince",
+      "image": "/Images/MovieCover/6th_HalfBloodPrince.jpg",
+      "release_year": 2009,
+      "runtime_hr": "2 hours 33 minutes"
+    },
+    {
+      "id": 7,
+      "title": "Harry Potter and the Deathly Hallows - Part 1",
+      "image": "/Images/MovieCover/7th_DeathlyFallow.jpg",
+      "release_year": 2010,
+      "runtime_hr": "2 hours 26 minutes"
+    },
+    {
+      "id": 8,
+      "title": "Harry Potter and the Deathly Hallows - Part 2",
+      "image": "/Images/MovieCover/8th_DeathlyPart2.jpg",
+      "release_year": 2011,
+      "runtime_hr": "2 hours 10 minutes"
+    }
+  ]

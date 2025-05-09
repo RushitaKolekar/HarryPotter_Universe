@@ -1,0 +1,276 @@
+.hero-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 2rem 0;
+ 
+}
+
+.video-wrapper {
+  width: 80%;
+  max-width: 1200px;
+  position: relative;
+  margin: 0 auto;
+}
+
+.hero-video {
+  width: 100%;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+  transform: scale(0.98);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  cursor: pointer;
+  display: block;
+}
+
+.hero-video:hover {
+  transform: scale(1);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.7);
+}
+
+.video-subtitle {
+  position: absolute;
+  bottom: 80px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  max-width: 80%;
+  text-align: center;
+  line-height: 1.4;
+  font-family: 'Arial', sans-serif;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.8);
+  backdrop-filter: blur(4px);
+  animation: fadeIn 0.3s ease;
+  pointer-events: none;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateX(-50%) translateY(10px); }
+  to { opacity: 1; transform: translateX(-50%) translateY(0); }
+}
+
+.play-pause-btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
+  border: none;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.3s ease, transform 0.2s ease;
+  z-index: 10;
+}
+
+.play-pause-btn:hover {
+  background: rgba(0, 0, 0, 0.9);
+  transform: translate(-50%, -50%) scale(1.1);
+}
+
+.video-wrapper:hover .play-pause-btn {
+  opacity: 1;
+}
+
+.unmute-btn {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
+  border: none;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  transition: all 0.2s ease;
+}
+
+.unmute-btn:hover {
+  background: rgba(0, 0, 0, 0.9);
+  transform: scale(1.1);
+}
+
+.video-credit {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-family: 'Arial', sans-serif;
+}
+
+.video-credit a {
+  color: #4fc3f7;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.video-credit a:hover {
+  color: #81d4fa;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+  .video-wrapper {
+    width: 90%;
+  }
+}
+
+@media (max-width: 768px) {
+  .video-wrapper {
+    width: 95%;
+  }
+  
+  .hero-video {
+    border-radius: 8px;
+  }
+  
+  .video-subtitle {
+    font-size: 1rem;
+    bottom: 70px;
+    padding: 8px 16px;
+  }
+  
+  .play-pause-btn {
+    width: 50px;
+    height: 50px;
+    font-size: 1.3rem;
+  }
+  
+  .unmute-btn {
+    width: 40px;
+    height: 40px;
+    font-size: 1.1rem;
+    bottom: 15px;
+    left: 15px;
+  }
+  
+  .video-credit {
+    font-size: 0.8rem;
+    padding: 6px 12px;
+    bottom: 15px;
+    right: 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .video-subtitle {
+    font-size: 0.9rem;
+    bottom: 60px;
+    max-width: 90%;
+  }
+}
+
+/* Add to your existing HeroVideo.css */
+
+.video-controls {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 15px;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 10px 20px;
+  border-radius: 30px;
+  backdrop-filter: blur(5px);
+}
+
+.play-pause-btn, .restart-btn, .unmute-btn {
+  background: transparent;
+  color: white;
+  border: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  transition: all 0.2s ease;
+}
+
+.play-pause-btn:hover, .restart-btn:hover, .unmute-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: scale(1.1);
+}
+
+.restart-btn {
+  font-size: 1.1rem;
+}
+
+/* Add to your existing HeroVideo.css */
+
+.video-controls-left {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 8px 15px;
+  border-radius: 30px;
+  backdrop-filter: blur(5px);
+}
+
+.control-btn {
+  background: transparent;
+  color: white;
+  border: none;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.control-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: scale(1.1);
+}
+
+.restart-btn {
+  font-size: 1rem;
+}
+
+/* Keep your existing responsive styles */
+@media (max-width: 768px) {
+  .video-controls-left {
+    bottom: 15px;
+    left: 15px;
+    padding: 6px 12px;
+  }
+  
+  .control-btn {
+    width: 32px;
+    height: 32px;
+    font-size: 1rem;
+  }
+}

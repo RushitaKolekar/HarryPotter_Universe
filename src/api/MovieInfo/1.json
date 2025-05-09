@@ -1,0 +1,54 @@
+ {
+        "id": 1,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "image": "/public/Images/MovieCover/1stMovie.jpg",
+        "release_year": 2001,
+        "runtime": {
+          "minutes": 152,
+          "formatted": "2h 32m"
+        },
+        "director": "Chris Columbus",
+        "main_cast": {
+          "Harry Potter": "Daniel Radcliffe",
+          "Hermione Granger": "Emma Watson",
+          "Ron Weasley": "Rupert Grint",
+          "Albus Dumbledore": "Richard Harris",
+          "Rubeus Hagrid": "Robbie Coltrane",
+          "Severus Snape": "Alan Rickman",
+          "Lord Voldemort": "Ian Hart"
+        },
+        "trailer": {
+          "youtube_url": "https://www.youtube.com/watch?v=VyHV0BRtdxo",
+          "description": "The trailer that launched a billion wands"
+        },
+        "summary": "On his 11th birthday, mistreated orphan Harry Potter makes a life-altering discovery when the giant Rubeus Hagrid bursts into his tiny seaside shack with earth-shattering news: 'Yer a wizard, Harry!' Whisked away from his cruel Muggle relatives, Harry enters the hidden wizarding world through the cobblestone streets of Diagon Alley, where he buys his first wand (whose phoenix feather core shares a mysterious connection to Voldemort's), befriends the warm but poor Weasley family, and learns of his fame as 'The Boy Who Lived' - the only person to survive the Killing Curse. The enchanted Hogwarts Express carries him to a castle where staircases move, paintings talk, and the Sorting Hat places him in Gryffindor House alongside his first true friends: loyal Ron Weasley and brilliant Hermione Granger. But beneath the wonder lurks danger - the sinister Professor Snape seems to hate Harry on sight, a three-headed dog guards a forbidden corridor, and Harry's natural talent for Quidditch is overshadowed by his recurring nightmares of a hooded figure drinking unicorn blood in the Dark Forest. When Harry, Ron and Hermione deduce that the monstrous dog guards the Philosopher's Stone (which grants immortality), they embark on a thrilling adventure through enchanted chessboards, devil's snares, and potion logic puzzles, culminating in Harry's solo confrontation with the stuttering Professor Quirrell - who unwraps his turban to reveal the face of Voldemort living on the back of his head! In a climactic battle of wills, Harry's mother's sacrificial love magic burns Quirrell to ashes when he touches Harry's skin, saving both the Stone and Harry's life. The year ends with Gryffindor winning the House Cup and Harry returning to the Dursleys - no longer an outcast, but a young wizard who's found where he truly belongs.",
+
+        "key_images": [
+          {
+            "url": "/public/Images/MovieIdsImage/1stMovie/letters.png",
+            "caption": "Hundreds of Hogwarts letters magically flooding the Dursley home"
+          },
+          {
+            "url": "/public/Images/MovieIdsImage/1stMovie/diagenally.png",
+            "caption": "1st time Harry enters Diagon Alley, a world of magic and wonder"
+          },
+          {
+            "url": "/public/Images/MovieIdsImage/1stMovie/dinninghall.png",
+            "caption": "Harry's first awe-struck view of the Great Hall ceiling"
+          },
+          {
+            "url": "/public/Images/MovieIdsImage/1stMovie/friends.png",
+            "caption": "Harry, Ron, and Hermione's friendship solidified over a shared adventure"
+          },
+          {
+            "url": "/public/Images/MovieIdsImage/1stMovie/hogwartEntry.png",
+            "caption": "Harry's first view of Hogwarts Castle, a magical world of wonder"
+          },
+          {
+            "url": "/public/Images/MovieIdsImage/1stMovie/chess.png",
+            "caption": "In christmas spirit, Harry and Ron play a  wizard's chess"
+          }
+        ]
+
+      }
+  

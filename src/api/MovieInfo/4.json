@@ -1,0 +1,53 @@
+{
+    "id": 4,
+    "title": "Harry Potter and the Goblet of Fire",
+    "image": "/public/Images/MovieCover/4th_GobletFire.jpg",
+    "release_year": 2005,
+    "runtime": {
+      "minutes": 157,
+      "formatted": "2h 37m"
+    },
+    "director": "Mike Newell",
+    "main_cast": {
+      "Harry Potter": "Daniel Radcliffe",
+      "Hermione Granger": "Emma Watson",
+      "Ron Weasley": "Rupert Grint",
+      "Albus Dumbledore": "Michael Gambon",
+      "Mad-Eye Moody": "Brendan Gleeson",
+      "Cedric Diggory": "Robert Pattinson",
+      "Lord Voldemort": "Ralph Fiennes",
+      "Rita Skeeter": "Miranda Richardson"
+    },
+    "trailer": {
+      "youtube_url": "https://www.youtube.com/watch?v=3EGojp4Hh6I",
+      "description": "The trailer that revealed the Dark Mark's return to the skies"
+    },
+    "summary": "The Quidditch World Cup's festive atmosphere shatters when Death Eaters attack, foreshadowing the darkness to come. At Hogwarts, the Triwizard Tournament begins with visiting delegations from Beauxbatons and Durmstrang, but chaos ensues when the Goblet of Fire inexplicably selects underage Harry as a fourth champion alongside Cedric Diggory. Forced to compete in deadly challenges - including a dragon chase and underwater rescue mission - Harry navigates teenage angst with Ron's jealousy and his crush on Cho Chang, while Rita Skeeter's poisonous articles sow discord. The tournament's maze finale becomes a trap when the Triwizard Cup transports Harry and Cedric to a graveyard where Peter Pettigrew murders Cedric and uses Harry's blood to resurrect Voldemort in a bone-chilling ritual. Their wand duel releases ghostly echoes of Voldemort's victims, including Harry's parents, before Harry escapes with Cedric's body. Dumbledore announces Voldemort's return to a horrified school, marking the end of childhood innocence as war begins.",
+    "key_images": [
+      {
+        "url": "/public/Images/MovieIdsImage/4thMovie/dragon.png",
+        "caption": "Harry outmaneuvers the Hungarian Horntail in the first task"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/4thMovie/moody_eye.png",
+        "caption": "Mad-Eye Moody's magical eye tracking Harry suspiciously"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/4thMovie/yule_ball.png",
+        "caption": "The magical Yule Ball with Hermione's stunning pink dress reveal"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/4thMovie/graveyard.png",
+        "caption": "Voldemort's rebirth in the graveyard - 'Kill the spare!'"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/4thMovie/bath.png",
+        "caption": "For understand clue of next task, Harry goes to 5th floor bathroom."
+      },
+     
+      {
+        "url": "/public/Images/MovieIdsImage/4thMovie/cedric_father.png",
+        "caption": "Heartbreaking moment when Cedric's father screams 'That's my son!'"
+      }
+    ]
+  }

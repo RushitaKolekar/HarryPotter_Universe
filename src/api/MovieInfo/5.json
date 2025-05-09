@@ -1,0 +1,52 @@
+{
+    "id": 5,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "image": "/public/Images/MovieCover/5th_OrderPhoneix.jpg",
+    "release_year": 2007,
+    "runtime": {
+      "minutes": 138,
+      "formatted": "2h 18m"
+    },
+    "director": "David Yates",
+    "main_cast": {
+      "Harry Potter": "Daniel Radcliffe",
+      "Hermione Granger": "Emma Watson",
+      "Ron Weasley": "Rupert Grint",
+      "Albus Dumbledore": "Michael Gambon",
+      "Dolores Umbridge": "Imelda Staunton",
+      "Severus Snape": "Alan Rickman",
+      "Sirius Black": "Gary Oldman",
+      "Luna Lovegood": "Evanna Lynch"
+    },
+    "trailer": {
+      "youtube_url": "https://www.youtube.com/watch?v=y6ZW7KXaXYk",
+      "description": "The Ministry's denial turns Hogwarts into a dystopia in this gripping trailer"
+    },
+    "summary": "After witnessing Voldemort's return and being abandoned by the wizarding world that doubts him, a traumatized Harry faces expulsion for using magic against Dementors in Little Whinging. Rescued by the re-formed Order of the Phoenix, he discovers the Ministry has installed the saccharine-but-sadistic Dolores Umbridge as High Inquisitor at Hogwarts. As Umbridge bans practical defense magic and punishes dissent with blood-quill torture ('I must not tell lies'), Harry secretly trains students in Dumbledore's Army within the Room of Requirement. Voldemort's mental intrusions grow stronger, culminating in a vision that lures Harry to the Department of Mysteries, where a deadly battle with Death Eaters results in Sirius Black falling through the mysterious veil. Dumbledore finally confirms Harry's connection to Voldemort's mind and reveals the prophecy: 'Neither can live while the other survives.' The film ends with the Ministry forced to acknowledge Voldemort's return as darkness fully descends.",
+    "key_images": [
+      {
+        "url": "/public/Images/MovieIdsImage/5thMovie/ministry_hearing.png",
+        "caption": "Harry's disciplinary hearing in the oppressive Ministry courtroom"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/5thMovie/umbridge_class.png",
+        "caption": "Umbridge's pink-clad tyranny in Defense Against the Dark Arts"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/5thMovie/da_training.png",
+        "caption": "Dumbledore's Army practicing patronuses in the Room of Requirement"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/5thMovie/ministry_battle.png",
+        "caption": "The explosive Department of Mysteries duel with Death Eaters"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/5thMovie/sirius_fall.png",
+        "caption": "Sirius Black's tragic moment passing through the veil"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/5thMovie/fight.png",
+        "caption": "The spectacular wand duel between Dumbledore and Voldemort"
+      }
+    ]
+  }

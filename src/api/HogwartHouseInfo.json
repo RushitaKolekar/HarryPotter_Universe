@@ -1,0 +1,85 @@
+[
+      {
+        "id": 1,
+        "name": "Gryffindor",
+        "image": "/public/Images/Houses/GryFFindor-Logo.jpg",
+        "founder": "Godric Gryffindor",
+        "house_quote": "You might belong in Gryffindor, where dwell the brave at heart.",
+        "colors": ["Scarlet", "Gold"],
+        "animal": "Lion",
+        "element": "Fire",
+        "traits": ["Bravery", "Nerve", "Chivalry", "Daring"],
+        "ghost": "Nearly Headless Nick",
+        "common_room": "Gryffindor Tower (7th floor)",
+        "notable_members": [
+          "Albus Dumbledore",
+          "Minerva McGonagall",
+          "Harry Potter",
+          "Hermione Granger",
+          "Ron Weasley"
+          
+        ],
+        "description":" "
+      },
+      {
+        "id": 2,
+        "name": "Hufflepuff",
+        "image": "/public/Images/Houses/hufflepuff.png",
+        "founder": "Helga Hufflepuff",
+        "house_quote": "You might belong in Hufflepuff, where they are just and loyal.",
+        "colors": ["Yellow", "Black"],
+        "animal": "Badger",
+        "element": "Earth",
+        "traits": ["Loyalty", "Patience", "Fair Play", "Hard Work"],
+        "ghost": "The Fat Friar",
+        "common_room": "Near the kitchens (basement)",
+        "notable_members": [
+          "Cedric Diggory",
+          "Nymphadora Tonks",
+          "Newt Scamander",
+          "Pomona Sprout"
+        ],
+        "description":" "
+      },
+      {
+        "id": 3,
+        "name": "Ravenclaw",
+        "founder": "Rowena Ravenclaw",
+        "image": "/public/Images/Houses/RavenclawLogo.jpg",
+        "house_quote": "You might belong in Ravenclaw, if you've a ready mind.",
+        "colors": ["Blue", "Bronze"],
+        "animal": "Eagle",
+        "element": "Air",
+        "traits": ["Intelligence", "Wisdom", "Creativity"],
+        "ghost": "The Grey Lady",
+        "common_room": "Ravenclaw Tower (west side)",
+        "notable_members": [
+          "Luna Lovegood",
+          "Gilderoy Lockhart",
+          "Filius Flitwick",
+          "Garrick Ollivander"
+        ],
+        "description":" "
+      },
+      {
+        "id": 4,
+        "name": "Slytherin",
+        "image": "/public/Images/Houses/Slytherin.png",
+        "house_quote": "You'll make your real friends in Slytherin, those cunning folk use any means.",
+        "founder": "Salazar Slytherin",
+        "colors": ["Green", "Silver"],
+        "animal": "Serpent",
+        "element": "Water",
+        "traits": ["Ambition", "Cunning", "Resourcefulness", "Determination"],
+        "ghost": "The Bloody Baron",
+        "common_room": "Dungeons (under the lake)",
+        "notable_members": [
+          "Tom Riddle (Voldemort)",
+          "Severus Snape",
+          "Draco Malfoy",
+          "Horace Slughorn"
+        ],
+        "description":" "
+      }
+    ]
+  

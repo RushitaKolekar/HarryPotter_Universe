@@ -1,0 +1,58 @@
+{
+    "id": 5,
+    "title": "Harry Potter and the Order of the Phoenix",
+    "image": "/public/Images/Book/5.png",
+    "year": 2003,
+    "pages": 766,
+    "genre": ["Fantasy", "Drama", "Political Thriller"],
+    "author": "J.K. Rowling",
+    "prequel": "Harry Potter and the Goblet of Fire",
+    "main_characters": ["Harry Potter", "Ron Weasley", "Hermione Granger", "Albus Dumbledore", "Dolores Umbridge"],
+    "villains": ["Lord Voldemort", "Dolores Umbridge", "Lucius Malfoy", "Bellatrix Lestrange"],
+    "inside_images": [
+      {
+        "url": "/public/Images/BookIdsImage/5thbook/dementorsattack.png",
+        "caption": "Dementors attack Harry and Dudley in Little Whinging."
+      },
+      {
+        "url": "/public/Images/BookIdsImage/5thbook/requirementroom.png",
+        "caption": "The secret Defense Against the Dark Arts group practices in the Room of Requirement."
+      },
+      {
+        "url": "/public/Images/BookIdsImage/5thbook/punishment.png",
+        "caption": "Blood quill punishments - 'I must not tell lies' carved into Harry's hand."
+      },
+      {
+        "url": "/public/Images/BookIdsImage/5thbook/Fight.png",
+        "caption": "Dumbldore and Voldemort's epic duel in the Ministry of Magic."
+      }
+    ],
+    "summary": [
+      {
+        "paragraph1": "Harry Potter and the Order of the Phoenix begins with a suffocating summer at Privet Drive, where Harry is attacked by Dementors and subsequently expelled from Hogwarts - until Dumbledore intervenes. Whisked away to Grimmauld Place, he discovers the Order of the Phoenix, a secret society fighting Voldemort's return. But the Ministry of Magic denies the Dark Lord's resurrection, branding Harry and Dumbledore as liars."
+      },
+      {
+        "paragraph2": "At Hogwarts, the pink-clad Dolores Umbridge takes over as Defense Against the Dark Arts teacher, replacing practical magic with useless theory. As she gains more power as High Inquisitor, Harry's disturbing visions of Voldemort's mind grow stronger. When Umbridge bans defensive spells, Harry, Ron, and Hermione form 'Dumbledore's Army,' secretly teaching students real combat magic in the Room of Requirement."
+      },
+      {
+        "paragraph3": "The tension explodes when Harry has a vision of Sirius being tortured at the Ministry. In a desperate race against time, the students fly to London on Thestrals, only to walk into a trap. The climactic battle in the Department of Mysteries sees death eaters versus teenagers, prophecies smashed, and Sirius falling through the mysterious veil - lost forever."
+      },
+      {
+        "paragraph4": "This explosive installment reveals the cost of war: innocence lost, trust broken, and the weight of prophecy ('Neither can live while the other survives'). As Voldemort's return becomes undeniable, Harry learns that some doors - like those veiled in the archway - open only one way. The Order of the Phoenix proves that even the brightest light casts the darkest shadows."
+      }
+    ],
+    "suspense_elements": [
+      "Why can Harry see into Voldemort's mind?",
+      "What is hidden in the Department of Mysteries?",
+      "Umbridge's sadistic punishments",
+      "Who will betray Dumbledore's Army?"
+    ],
+    "interesting_facts": [
+      "This is the longest book in the series (over 250,000 words)",
+      "Rowling considered killing off Ron instead of Sirius",
+      "Umbridge's character was inspired by real authoritarian figures",
+      "The veil in the Death Chamber represents Rowling's own grief about her mother's death"
+    ],
+
+     "download_link": "/public/PDFs/5.pdf"
+  }

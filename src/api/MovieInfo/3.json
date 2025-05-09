@@ -1,0 +1,52 @@
+{
+    "id": 3,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "image": "/public/Images/MovieCover/3rd_Prisoner.jpg",
+    "release_year": 2004,
+    "runtime": {
+      "minutes": 142,
+      "formatted": "2h 22m"
+    },
+    "director": "Alfonso Cuarón",
+    "main_cast": {
+      "Harry Potter": "Daniel Radcliffe",
+      "Hermione Granger": "Emma Watson",
+      "Ron Weasley": "Rupert Grint",
+      "Albus Dumbledore": "Michael Gambon",
+      "Remus Lupin": "David Thewlis",
+      "Sirius Black": "Gary Oldman",
+      "Severus Snape": "Alan Rickman",
+      "Peter Pettigrew": "Timothy Spall"
+    },
+    "trailer": {
+      "youtube_url": "https://www.youtube.com/watch?v=lAxgztbYDbs",
+      "description": "Darkness descends in Alfonso Cuarón's visionary take on the Wizarding World"
+    },
+    "summary": "Harry's third year takes a dark turn when the infamous Sirius Black escapes Azkaban prison, allegedly to hunt him down. As soul-sucking Dementors patrol Hogwarts' grounds, new Defense Against the Dark Arts professor Remus Lupin teaches Harry the Patronus Charm to repel them. Mysteries multiply - why does the Whomping Willow violently lash out? What connects Lupin, Black, and the traitor Peter Pettigrew? And why does Harry keep seeing a spectral black dog, an omen of death? The truth explodes when Harry discovers Ron's rat Scabbers is actually Pettigrew in hiding - the real traitor who framed Sirius. In a heart-stopping climax at the Shrieking Shack, time itself bends as Harry and Hermione use a Time-Turner to rescue Sirius from Dementors and Buckbeak the hippogriff from execution. The film ends with Harry receiving his first true family connection - a godfather in Sirius - while learning even heroes like his father had shadows.",
+    "key_images": [
+      {
+        "url": "/public/Images/MovieIdsImage/3rdMovie/knightbus.png",
+        "caption": "Harry's wild ride on the triple-decker Knight Bus through London"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/3rdMovie/dementor.png",
+        "caption": "A Dementor's first attack on the Hogwarts Express"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/3rdMovie/enjoy.png",
+        "caption": "Enjoying a moments without knowing which danger is waiting for them"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/3rdMovie/peter.png",
+        "caption": "The Marauder's Map revealing secret passages and Peter Pettigrew's name"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/3rdMovie/talk.png",
+        "caption": "The explosive truth revealed in the Shrieking Shack"
+      },
+      {
+        "url": "/public/Images/MovieIdsImage/3rdMovie/time_turner.png",
+        "caption": "Harry and Hermione's time-bending rescue mission under moonlight"
+      }
+    ]
+  }
