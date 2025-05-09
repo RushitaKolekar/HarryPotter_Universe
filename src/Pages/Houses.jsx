@@ -169,7 +169,7 @@ function Houses() {
               <div className="relative z-10 p-6">
                 <div className="flex flex-col md:flex-row gap-6">
                   {/* House Image */}
-                  <div className="flex-shrink-0 w-48 h-48">
+                  <div className="flex-shrink-0 w-48 h-48 ">
                     <img 
                       src={house.image} 
                       alt={house.name} 
@@ -178,7 +178,7 @@ function Houses() {
                   </div>
                   
                   {/* House Details */}
-                  <div className="flex flex-col gap-3 w-full ">  {/* Changed from flex-wrap to flex-col */}
+                  <div className="flex flex-col gap-3 w-full pt-6 md:pt-0 ">  {/* Changed from flex-wrap to flex-col */}
                   <h3 className={`text-3xl font-bold ${house.name === "Gryffindor" ? 'text-red-400' : 
                     house.name === "Hufflepuff" ? 'text-yellow-400' :
                     house.name === "Ravenclaw" ? 'text-blue-400' : 'text-green-400'}`}>

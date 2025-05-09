@@ -19,7 +19,8 @@ function Header() {
   const getNavLinkClass = ({ isActive }) => 
     isActive 
       ? 'bold underline sm:text-lg md:text-xl underline-offset-4  text-black'
-      : 'text-white md:hover:text-xl sm:hover:text-lg px-3 py-1  transition-colors';
+      : 'text-white hover:font-extrabold  px-3 py-1  transition-colors';
+      // md:hover:text-xl sm:hover"text-lg
 
   return (
   <>
@@ -27,7 +28,7 @@ function Header() {
 
     <div>
 
-      <div className='flex flex-row justify-center  items-center bg-violet-600 h-auto min-w-auto  '>
+      <div className='flex flex-row justify-center items-center bg-violet-600 h-auto min-w-auto  '>
 
         <div>
 
@@ -40,7 +41,7 @@ function Header() {
 
         <nav>
           <ul className='hidden  md:flex md:gap-8 md:text-lg  
-          sm:flex sm:gap-1 sm:text-md
+          sm:flex sm:gap-1 sm:text-md  
           flex-row items-center justify-center font-bold text-white 
           '> 
             <li><NavLink to= "/" className= {getNavLinkClass} end>Home</NavLink></li>

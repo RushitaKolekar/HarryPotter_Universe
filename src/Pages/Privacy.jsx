@@ -118,7 +118,7 @@ const Privacy = () => {
       </div>
 
       {/* CSS for custom fonts and colors - add these to your global CSS */}
-      <style jsx global>{`
+      <style jsx="true" global ="true">{`
         @import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
         .font-harry {
           font-family: 'MedievalSharp', cursive;

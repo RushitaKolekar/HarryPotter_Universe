@@ -62,7 +62,7 @@ function Footer() {
 
       {/* Minimal CSS for hat rotation animation */}
       
-    <style jsx>{`
+    <style jsx = "true">{`
       .hat-rotate {
         transition: transform 0.5s ease;
       }
