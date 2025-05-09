@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { FaDownload, FaSpinner, FaCheck } from 'react-icons/fa';
 import { toast } from 'react-toastify';
+
 import 'react-toastify/dist/ReactToastify.css';
 
 const BookIDs = () => {
@@ -20,7 +21,7 @@ const BookIDs = () => {
         setLoading(true);
         setError(null);
        
-        const response = await fetch(`/src/api/BookInfo/${id}.json`);
+        const response = await fetch(`../../api/BookInfo/${id}.json`);
         
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
