@@ -1,7 +1,7 @@
 {
     "id": 4,
     "title": "Harry Potter and the Goblet of Fire",
-    "image": "/public/Images/Book/4.png",
+    "image": "/Images/Book/4.png",
     "year": 2000,
     "pages": 636,
     "genre": ["Fantasy", "Adventure", "Thriller"],
@@ -10,15 +10,15 @@
     "villains": ["Lord Voldemort", "Barty Crouch Jr. (Disguised as Moody)", "Peter Pettigrew"],
     "inside_images": [
       {
-        "url": "/public/Images/BookIdsImage/4thbook/triwizardCup.png",
+        "url": "/Images/BookIdsImage/4thbook/triwizardCup.png",
         "caption": "The triwizard cup — more than just a trophy."
       },
       {
-        "url": "/public/Images/BookIdsImage/4thbook/dragon.png",
+        "url": "/Images/BookIdsImage/4thbook/dragon.png",
         "caption": "Dragons in the first task—fire-breathing and terrifying."
       },
       {
-        "url": "/public/Images/BookIdsImage/4thbook/reborthHim.png",
+        "url": "/Images/BookIdsImage/4thbook/reborthHim.png",
         "caption": "Voldemort’s rebirth—bone, flesh, and blood ritual."
       }
     ],
@@ -51,5 +51,5 @@
       "The maze was inspired by M.C. Escher’s impossible staircases."
     ],
 
-     "download_link": "/public/PDFs/4.pdf"
+     "download_link": "/PDFs/4.pdf"
   }

@@ -1,7 +1,7 @@
 {
     "id": 3,
     "title": "Harry Potter and the Prisoner of Azkaban",
-    "image": "/public/Images/Book/3.png",
+    "image": "/Images/Book/3.png",
     "year": 1999,
     "pages": 317,
     "genre": ["Fantasy", "Mystery", "Thriller"],
@@ -10,15 +10,15 @@
     "villains": ["Sirius Black (Fakeout)", "Peter Pettigrew", "Dementors"],
     "inside_images": [
       {
-        "url": "/public/Images/BookIdsImage/3rdbook/HogwartExpAttack.png",
+        "url": "/Images/BookIdsImage/3rdbook/HogwartExpAttack.png",
         "caption":"Dementors attack on the Hogwarts Express—Harry’s first encounter."
       },
       {
-        "url": "/public/Images/BookIdsImage/3rdbook/murdererMap.png",
+        "url": "/Images/BookIdsImage/3rdbook/murdererMap.png",
         "caption": "The Marauder’s Map reveals the castle’s secrets—who’s in the castle? ... Peter Pettigrew?"
       },
       {
-        "url": "/public/Images/BookIdsImage/3rdbook/godFatherAttack.png",
+        "url": "/Images/BookIdsImage/3rdbook/godFatherAttack.png",
         "caption": "Harry’s Patronus—his father’s spirit protecting him from Dementors."
       }
     ],
@@ -49,5 +49,5 @@
       "The Time-Turner plot inspired Cursed Child’s time travel."
     ],
 
-     "download_link": "/public/PDFs/3.pdf"
+     "download_link": "/PDFs/3.pdf"
   }

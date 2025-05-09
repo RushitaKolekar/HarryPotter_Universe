@@ -1,7 +1,7 @@
 {
     "id": 2,
     "title": "Harry Potter and the Chamber of Secrets",
-    "image": "/public/Images/Book/2.png",
+    "image": "/Images/Book/2.png",
     "year": 1998,
     "pages": 251,
     "genre": ["Fantasy", "Horror", "Mystery"],
@@ -11,16 +11,16 @@
     "villains": ["Tom Riddle (Young Voldemort)", "Basilisk", "Lucius Malfoy"],
     "inside_images": [
       {
-        "url": "/public/Images/BookIdsImage/2ndbook/chamberBloodMsg.png",
+        "url": "/Images/BookIdsImage/2ndbook/chamberBloodMsg.png",
         "caption": "Chamber of Secrets message: 'The Chamber of Secrets has been opened.'"
       },
       {
-        "url": "/public/Images/BookIdsImage/2ndbook/spiders.png",
+        "url": "/Images/BookIdsImage/2ndbook/spiders.png",
         "caption": "Spiders in the Forbidden Forest: 'Follow the spiders!'"
       },
       
       {
-        "url": "/public/Images/BookIdsImage/2ndbook/chamber.png",
+        "url": "/Images/BookIdsImage/2ndbook/chamber.png",
         "caption": "Chamber of Secrets: 'The monster is in the Chamber!'" 
       }
     ],
@@ -52,5 +52,5 @@
         "Dobby’s design was inspired by house-elf descriptions in English folklore."
       ],
 
-      "download_link": "/public/PDFs/2.pdf"
+      "download_link": "/PDFs/2.pdf"
   }

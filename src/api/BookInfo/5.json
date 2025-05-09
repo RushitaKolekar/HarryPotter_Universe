@@ -1,7 +1,7 @@
 {
     "id": 5,
     "title": "Harry Potter and the Order of the Phoenix",
-    "image": "/public/Images/Book/5.png",
+    "image": "/Images/Book/5.png",
     "year": 2003,
     "pages": 766,
     "genre": ["Fantasy", "Drama", "Political Thriller"],
@@ -11,19 +11,19 @@
     "villains": ["Lord Voldemort", "Dolores Umbridge", "Lucius Malfoy", "Bellatrix Lestrange"],
     "inside_images": [
       {
-        "url": "/public/Images/BookIdsImage/5thbook/dementorsattack.png",
+        "url": "/Images/BookIdsImage/5thbook/dementorsattack.png",
         "caption": "Dementors attack Harry and Dudley in Little Whinging."
       },
       {
-        "url": "/public/Images/BookIdsImage/5thbook/requirementroom.png",
+        "url": "/Images/BookIdsImage/5thbook/requirementroom.png",
         "caption": "The secret Defense Against the Dark Arts group practices in the Room of Requirement."
       },
       {
-        "url": "/public/Images/BookIdsImage/5thbook/punishment.png",
+        "url": "/Images/BookIdsImage/5thbook/punishment.png",
         "caption": "Blood quill punishments - 'I must not tell lies' carved into Harry's hand."
       },
       {
-        "url": "/public/Images/BookIdsImage/5thbook/Fight.png",
+        "url": "/Images/BookIdsImage/5thbook/Fight.png",
         "caption": "Dumbldore and Voldemort's epic duel in the Ministry of Magic."
       }
     ],
@@ -54,5 +54,5 @@
       "The veil in the Death Chamber represents Rowling's own grief about her mother's death"
     ],
 
-     "download_link": "/public/PDFs/5.pdf"
+     "download_link": "/PDFs/5.pdf"
   }

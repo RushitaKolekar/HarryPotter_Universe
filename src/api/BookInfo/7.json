@@ -1,7 +1,7 @@
 {
     "id": 7,
     "title": "Harry Potter and the Deathly Hallows",
-    "image": "/public/Images/Book/7.png",
+    "image": "/Images/Book/7.png",
     "year": 2007,
     "pages": 607,
     "genre": ["Fantasy", "War Drama", "Mystery"],
@@ -23,19 +23,19 @@
     ],
     "inside_images": [
       {
-        "url": "/public/Images/BookIdsImage/7thbook/ministry_heist.png",
+        "url": "/Images/BookIdsImage/7thbook/ministry_heist.png",
         "caption": "Disguised as Ministry workers, the trio infiltrate the now-fascist regime."
       },
       {
-        "url": "/public/Images/BookIdsImage/7thbook/horcrux_locket.png",
+        "url": "/Images/BookIdsImage/7thbook/horcrux_locket.png",
         "caption": "The cursed locket Horcrux feeds on Ron's deepest insecurities."
       },
       {
-        "url": "/public/Images/BookIdsImage/7thbook/snape_memories.png",
+        "url": "/Images/BookIdsImage/7thbook/snape_memories.png",
         "caption": "Snape's memories in the Pensieve reveal a lifetime of love and sacrifice."
       },
       {
-        "url": "/public/Images/BookIdsImage/7thbook/final_showdown.png",
+        "url": "/Images/BookIdsImage/7thbook/final_showdown.png",
         "caption": "The Great Hall battlefield - where light and dark clash for the last time."
       }
     ],
@@ -68,5 +68,5 @@
       "The epilogue was the most rewritten section"
     ],
 
-     "download_link": "/public/PDFs/7.pdf"
+     "download_link": "/PDFs/7.pdf"
   }

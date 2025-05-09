@@ -1,7 +1,7 @@
 {
     "id": 1,
     "title": "Harry Potter and the Philosopher's Stone",
-    "image": "/public/Images/Book/1.png",
+    "image": "/Images/Book/1.png",
     "year": 1997,
     "pages": 223,
     "genre": ["Fantasy", "Adventure", "Mystery"],
@@ -11,15 +11,15 @@
     "villains": ["Lord Voldemort (Quirrell)", "Severus Snape (Red Herring)", "Draco Malfoy"],
     "inside_images": [
       {
-        "url": "/public/Images/BookIdsImage/1stbook/friends.png",
+        "url": "/Images/BookIdsImage/1stbook/friends.png",
         "caption": "Harry Potter, Ron Weasley, and Hermione Granger—friends for life."
       },
       {
-        "url": "/public/Images/BookIdsImage/1stbook/mirror.png",
+        "url": "/Images/BookIdsImage/1stbook/mirror.png",
         "caption": "Harry discovers the Mirror of Erised—his deepest desire."
       },
       {
-        "url": "/public/Images/BookIdsImage/1stbook/chessBoardChamber.png",
+        "url": "/Images/BookIdsImage/1stbook/chessBoardChamber.png",
         "caption": "ChessBoard Chamber —where strategy and bravery collide."
       }
     ],
@@ -51,5 +51,5 @@
     "Nicolas Flamel, the Stone’s creator, was a real 14th-century alchemist."
   ],
 
-   "download_link": "/public/PDFs/1.pdf"
+   "download_link": "/PDFs/1.pdf"
   }

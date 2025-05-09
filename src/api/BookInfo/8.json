@@ -1,7 +1,7 @@
 {
   "id": 8,
   "title": "Harry Potter and the Cursed Child",
-  "image": "/public/Images/Book/8.png",
+  "image": "/Images/Book/8.png",
   "year": 2016,
   "pages": 330,
   "genre": ["Fantasy", "Drama", "Time-Travel"],
@@ -22,15 +22,15 @@
   ],
   "inside_images": [
     {
-      "url": "/public/Images/BookIdsImage/8thbook/time_turner-heist.png",
+      "url": "/Images/BookIdsImage/8thbook/time_turner-heist.png",
       "caption": "Albus and Scorpius stealing the Time-Turner - the moment everything changes."
     },
     {
-      "url": "/public/Images/BookIdsImage/8thbook/dark_ministry.png",
+      "url": "/Images/BookIdsImage/8thbook/dark_ministry.png",
       "caption": "Alternate reality: A world where Voldemort won and Harry is dead."
     },
     {
-      "url": "/public/Images/BookIdsImage/8thbook/snape_portait.png",
+      "url": "/Images/BookIdsImage/8thbook/snape_portait.png",
       "caption": "Severus Snape's portrait returns in a heartbreaking cameo."
     }
   ],
@@ -63,5 +63,5 @@
     "Rowling considers this 'canon' despite time-travel logic issues"
   ],
 
-   "download_link": "/public/PDFs/8.pdf"
+   "download_link": "/PDFs/8.pdf"
 }

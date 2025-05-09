@@ -1,7 +1,7 @@
 {
     "id": 6,
     "title": "Harry Potter and the Half-Blood Prince",
-    "image": "/public/Images/Book/6.png",
+    "image": "/Images/Book/6.png",
     "year": 2005,
     "pages": 607,
     "genre": ["Fantasy", "Mystery", "Dark Academia"],
@@ -23,19 +23,19 @@
     ],
     "inside_images": [
       {
-        "url": "/public/Images/BookIdsImage/6thbook/visitMemoryTom.png",
+        "url": "/Images/BookIdsImage/6thbook/visitMemoryTom.png",
         "caption": "Dumbledore and Harry dive into the swirling memories of Tom Riddle's past."
       },
       {
-        "url": "/public/Images/BookIdsImage/6thbook/felixLiquid.png",
+        "url": "/Images/BookIdsImage/6thbook/felixLiquid.png",
         "caption": "Harry's Felix Felicis-fueled golden glow - liquid luck in action."
       },
       {
-        "url": "/public/Images/BookIdsImage/6thbook/potion.png",
+        "url": "/Images/BookIdsImage/6thbook/potion.png",
         "caption": "The inferi-filled cave - Dumbledore weakened after drinking the potion."
       },
       {
-        "url": "/public/Images/BookIdsImage/6thbook/deathAlbus.png",
+        "url": "/Images/BookIdsImage/6thbook/deathAlbus.png",
         "caption": "The fateful Astronomy Tower where loyalties shatter."
       }
     ],
@@ -68,5 +68,5 @@
       "The original draft had a different opening (later moved to Book 7)"
     ],
 
-     "download_link": "/public/PDFs/6.pdf"
+     "download_link": "/PDFs/6.pdf"
   }
