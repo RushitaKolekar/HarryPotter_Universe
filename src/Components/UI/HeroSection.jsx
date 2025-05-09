@@ -145,7 +145,7 @@ const HeroSection = () => {
           onMouseLeave={() => setIsHovered(false)}
           onClick={togglePlayPause}
         >
-          <source src="/public/Videos/Hogwart.mp4" type="video/mp4" />
+          <source src="/Videos/Hogwart.mp4" type="video/mp4" />
           <track
             kind="subtitles"
             srcLang="en"
