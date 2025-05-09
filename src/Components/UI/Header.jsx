@@ -33,7 +33,7 @@ function Header() {
         <div>
 
           <NavLink to="/">
-          <h1><img src= "/images/OtherStuff/LOGO_BlackNoBG.png" alt="logo" className='h-23 w-45 shrink-0 ' /></h1>
+          <h1><img src= "/Images/OtherStuff/LOGO_BlackNoBG.png" alt="logo" className='h-23 w-45 shrink-0 ' /></h1>
           </NavLink>
 
 
