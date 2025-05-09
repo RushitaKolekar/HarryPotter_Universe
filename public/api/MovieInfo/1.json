@@ -1,7 +1,7 @@
  {
         "id": 1,
         "title": "Harry Potter and the Philosopher's Stone",
-        "image": "/public/Images/MovieCover/1stMovie.jpg",
+        "image": "/Images/MovieCover/1stMovie.jpg",
         "release_year": 2001,
         "runtime": {
           "minutes": 152,
@@ -25,27 +25,27 @@
 
         "key_images": [
           {
-            "url": "/public/Images/MovieIdsImage/1stMovie/letters.png",
+            "url": "/Images/MovieIdsImage/1stMovie/letters.png",
             "caption": "Hundreds of Hogwarts letters magically flooding the Dursley home"
           },
           {
-            "url": "/public/Images/MovieIdsImage/1stMovie/diagenally.png",
+            "url": "/Images/MovieIdsImage/1stMovie/diagenally.png",
             "caption": "1st time Harry enters Diagon Alley, a world of magic and wonder"
           },
           {
-            "url": "/public/Images/MovieIdsImage/1stMovie/dinninghall.png",
+            "url": "/Images/MovieIdsImage/1stMovie/dinninghall.png",
             "caption": "Harry's first awe-struck view of the Great Hall ceiling"
           },
           {
-            "url": "/public/Images/MovieIdsImage/1stMovie/friends.png",
+            "url": "/Images/MovieIdsImage/1stMovie/friends.png",
             "caption": "Harry, Ron, and Hermione's friendship solidified over a shared adventure"
           },
           {
-            "url": "/public/Images/MovieIdsImage/1stMovie/hogwartEntry.png",
+            "url": "/Images/MovieIdsImage/1stMovie/hogwartEntry.png",
             "caption": "Harry's first view of Hogwarts Castle, a magical world of wonder"
           },
           {
-            "url": "/public/Images/MovieIdsImage/1stMovie/chess.png",
+            "url": "/Images/MovieIdsImage/1stMovie/chess.png",
             "caption": "In christmas spirit, Harry and Ron play a  wizard's chess"
           }
         ]

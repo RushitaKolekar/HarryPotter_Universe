@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react';
 import { NavLink } from 'react-router-dom';
-import BookInfo from "../../api/BookInfo.json";
+import BookInfo from "../../../public/api/BookInfo.json";
 import { motion } from 'framer-motion';
 
 function BookCard() {

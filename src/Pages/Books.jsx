@@ -1,6 +1,6 @@
 import React ,{useState} from 'react'
 import { NavLink } from 'react-router-dom';
-import BookInfo from "../api/BookInfo.json";
+import BookInfo from "../../public/api/BookInfo.json";
 
 const Books = () => {
 

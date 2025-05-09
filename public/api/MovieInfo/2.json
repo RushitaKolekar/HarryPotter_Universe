@@ -1,7 +1,7 @@
 {
     "id": 2,
     "title": "Harry Potter and the Chamber of Secrets",
-    "image": "/public/Images/MovieCover/2nd_movie.jpg",
+    "image": "/Images/MovieCover/2nd_movie.jpg",
     "release_year": 2002,
     "runtime": {
       "minutes": 161,
@@ -25,27 +25,27 @@
     "summary": "Harry's second year begins with a dire warning from a strange house-elf named Dobby, who predicts disaster if Harry returns to Hogwarts. Ignoring the warning (and escaping the Dursleys in a flying Ford Anglia with Ron), Harry arrives to find sinister messages written in blood on the castle walls: 'The Chamber of Secrets has been opened.' As students are petrified by an unseen monster, Harry discovers he can hear a haunting voice in the walls - a voice no one else can hear. Teaming up with Ron and Hermione (now armed with encyclopedic knowledge of magical creatures), they follow clues pointing to Salazar Slytherin's legendary Basilisk - a giant serpent whose gaze kills. The mystery deepens when Hermione is petrified, leaving behind a crucial hint, and Harry finds Tom Riddle's enchanted diary that reveals Hagrid's unjust expulsion 50 years prior. In a heart-pounding climax, Harry enters the Chamber itself, where he battles the Basilisk, destroys Riddle's diary (a magical Horcrux containing young Voldemort's memory), and rescues Ginny Weasley from the diary's life-draining possession. The year ends with Dobby freed by Harry's clever trick on Lucius Malfoy, proving that even the smallest creatures can change destiny.",
     "key_images": [
       {
-        "url": "/public/Images/MovieIdsImage/2ndMovie/flyingcar.png",
+        "url": "/Images/MovieIdsImage/2ndMovie/flyingcar.png",
         "caption": "Harry and Ron's chaotic flight to Hogwarts in the Weasleys' enchanted Ford Anglia"
       },
       {
-        "url": "/public/Images/MovieIdsImage/2ndMovie/dobby.png",
+        "url": "/Images/MovieIdsImage/2ndMovie/dobby.png",
         "caption": "Dobby warning Harry in his bedroom at Privet Drive"
       },
       {
-        "url": "/public/Images/MovieIdsImage/2ndMovie/spidera.png",
+        "url": "/Images/MovieIdsImage/2ndMovie/spidera.png",
         "caption": "Aragog the Acromantula revealing secrets in the Forbidden Forest"
       },
       {
-        "url": "/public/Images/MovieIdsImage/2ndMovie/lockhhart.png",
+        "url": "/Images/MovieIdsImage/2ndMovie/lockhhart.png",
         "caption": "Gilderoy Lockhart's disastrous 'Dueling Club' demonstration"
       },
       {
-        "url": "/public/Images/MovieIdsImage/2ndMovie/basilisk.png",
+        "url": "/Images/MovieIdsImage/2ndMovie/basilisk.png",
         "caption": "Harry facing the monstrous Basilisk in the Chamber of Secrets"
       },
       {
-        "url": "/public/Images/MovieIdsImage/2ndMovie/diary.png",
+        "url": "/Images/MovieIdsImage/2ndMovie/diary.png",
         "caption": "Tom Riddle's diary - the first Horcrux introduced in the series"
       }
     ]

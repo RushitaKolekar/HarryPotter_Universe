@@ -1,7 +1,7 @@
 import React, { useRef, useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import HogwartHouseInfo from "../../api/HogwartHouseInfo.json";
+import HogwartHouseInfo from "../../../public/api/HogwartHouseInfo.json";
 
 function HouseCard() {
   const sliderRef = useRef(null);

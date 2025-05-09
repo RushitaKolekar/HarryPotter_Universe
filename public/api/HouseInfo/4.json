@@ -1,7 +1,7 @@
 {
     "id": 4,
     "name": "Slytherin",
-    "image": "/public/Images/Houses/Slytherin.png",
+    "image": "/Images/Houses/Slytherin.png",
     "house_quote": " 'You'll make your real friends in Slytherin, those cunning folk use any means, To achieve their ends.' - Sorting Hat",
     "founder": "Salazar Slytherin",
     "house_colors": ["Green", "Silver"],
@@ -45,25 +45,25 @@
     { 
         "founder":
         {
-            "url": "/public/Images/HouseIdsImage/SHouse/founder.png",
+            "url": "/Images/HouseIdsImage/SHouse/founder.png",
             "caption": "Salazar Slytherin - Founder of Slytherin House"
         },
 
         "trait":
         {
-            "url": "/public/Images/HouseIdsImage/SHouse/SLogo.jpg",
+            "url": "/Images/HouseIdsImage/SHouse/SLogo.jpg",
             "caption": "Slytherin Logo"
         },
 
         "common_room":
         {
-            "url": "/public/Images/HouseIdsImage/SHouse/common_room.png",
+            "url": "/Images/HouseIdsImage/SHouse/common_room.png",
             "caption": "Slytherin Common Room"
         },
 
         "ghost":
         {
-            "url": "/public/Images/HouseIdsImage/SHouse/ghost.png",
+            "url": "/Images/HouseIdsImage/SHouse/ghost.png",
             "caption": "The Bloody Baron - Slytherin House Ghost"
         }
   }

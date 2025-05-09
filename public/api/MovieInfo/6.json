@@ -1,7 +1,7 @@
 {
     "id": 6,
     "title": "Harry Potter and the Half-Blood Prince",
-    "image": "/public/Images/MovieCover/6th_HalfBloodPrince.jpg",
+    "image": "/Images/MovieCover/6th_HalfBloodPrince.jpg",
     "release_year": 2009,
     "runtime": {
       "minutes": 153,
@@ -25,27 +25,27 @@
     "summary": "As Voldemort's power grows, Harry discovers an old Potions textbook belonging to the mysterious 'Half-Blood Prince' that gives him unprecedented academic success. Meanwhile, Dumbledore reveals crucial memories about young Tom Riddle's transformation into Voldemort, exposing his obsession with Horcruxes. The school year balances between dark revelations and teenage romance - Harry's growing feelings for Ginny, Ron's tumultuous relationship with Lavender Brown, and Hermione's unspoken jealousy. Draco Malfoy secretly works on a dangerous mission for Voldemort, while Snape makes an Unbreakable Vow to protect him. The climax comes when Dumbledore takes Harry to retrieve a fake Horcrux, returning weakened to Hogwarts where Snape kills Dumbledore on the Astronomy Tower. As Death Eaters invade the castle, Harry pursues Snape, learning his true identity as the Half-Blood Prince. The film ends with the Order mourning Dumbledore, Snape joining Voldemort, and Harry abandoning Hogwarts to hunt the remaining Horcruxes.",
     "key_images": [
       {
-        "url": "/public/Images/MovieIdsImage/6thMovie/memory_pensive.png",
+        "url": "/Images/MovieIdsImage/6thMovie/memory_pensive.png",
         "caption": "Harry and Dumbledore exploring young Tom Riddle's memories"
       },
       {
-        "url": "/public/Images/MovieIdsImage/6thMovie/felix_felicis.png",
+        "url": "/Images/MovieIdsImage/6thMovie/felix_felicis.png",
         "caption": "Harry under the golden influence of liquid luck"
       },
       {
-        "url": "/public/Images/MovieIdsImage/6thMovie/cave_horror.png",
+        "url": "/Images/MovieIdsImage/6thMovie/cave_horror.png",
         "caption": "Dumbledore weakened after drinking the inferi-surrounded potion"
       },
       {
-        "url": "/public/Images/MovieIdsImage/6thMovie/astronomy_tower.png",
+        "url": "/Images/MovieIdsImage/6thMovie/astronomy_tower.png",
         "caption": "The fateful moment when Snape kills Dumbledore"
       },
       {
-        "url": "/public/Images/MovieIdsImage/6thMovie/harry_ginny.png",
+        "url": "/Images/MovieIdsImage/6thMovie/harry_ginny.png",
         "caption": "Harry and Ginny's first kiss in the Room of Requirement"
       },
       {
-        "url": "/public/Images/MovieIdsImage/6thMovie/snape.png",
+        "url": "/Images/MovieIdsImage/6thMovie/snape.png",
         "caption": "Snape's devastating confession: 'I am the Half-Blood Prince'"
       }
     ]

@@ -1,6 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import HogwartHouseInfo from "../api/HogwartHouseInfo.json";
+import HogwartHouseInfo from "../../public/api/HogwartHouseInfo.json";
 import { GiFairyWand } from "react-icons/gi";
 
 function Houses() {

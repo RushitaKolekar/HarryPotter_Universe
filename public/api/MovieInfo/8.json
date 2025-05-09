@@ -1,7 +1,7 @@
 {
     "id": 7.2,
     "title": "Harry Potter and the Deathly Hallows – Part 2",
-    "image": "/public/Images/MovieCover/8th_DeathlyPart2.jpg",
+    "image": "/Images/MovieCover/8th_DeathlyPart2.jpg",
     "release_year": 2011,
     "runtime": {
       "minutes": 130,
@@ -23,22 +23,23 @@
       "description": "The epic final battle trailer that broke viewership records"
     },
     "summary": "The saga concludes with Harry, Ron and Hermione breaking into Gringotts to steal a Horcrux from Bellatrix's vault, escaping on the back of a blind dragon. Returning to Hogwarts under siege, they unite with professors and students to prepare for the final battle against Voldemort's forces. As casualties mount (including Fred Weasley, Remus Lupin and Tonks), Harry views Snape's memories in the Pensieve, discovering his true loyalty and that he himself must die to destroy the Horcrux within him. Walking willingly into the Forbidden Forest, Harry's 'death' at Voldemort's hands actually destroys the fragment of soul within him. The Battle of Hogwarts reaches its climax when Neville kills Nagini - the last Horcrux - and Molly Weasley obliterates Bellatrix. In the Great Hall, Harry reveals his survival and defeats Voldemort once and for all when the Elder Wand refuses to kill its true master. Nineteen years later, Harry, Ginny, Ron and Hermione send their own children to Hogwarts, the scars of war healed but never forgotten.",
+   
     "key_images": [
       {
-          "url": "/public/Images/MovieIdsImage/8thMovie/fly.png",
+          "url": "/Images/MovieIdsImage/8thMovie/fly.png",
           "caption": "The trio riding the Ukrainian Ironbelly dragon out of Gringotts"
       },
      
       {
-        "url": "/public/Images/MovieIdsImage/8thMovie/forest_walk.png",
+        "url": "/Images/MovieIdsImage/8thMovie/forest_walk.png",
         "caption": "Harry walking to his death surrounded by ghostly loved ones"
       },
       {
-        "url": "/public/Images/MovieIdsImage/8thMovie/final.png",
+        "url": "/Images/MovieIdsImage/8thMovie/final.png",
         "caption": "Fight between Harry and Voldemort in the Great Hall, with the Elder Wand's"
       },
       {
-        "url": "/public/Images/MovieIdsImage/8thMovie/epilogue.png",
+        "url": "/Images/MovieIdsImage/8thMovie/epilogue.png",
         "caption": "The emotional Platform 9¾ epilogue with next-gen Potters and Weasleys"
       }
     ]

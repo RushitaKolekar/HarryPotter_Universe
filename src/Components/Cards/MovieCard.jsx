@@ -1,6 +1,6 @@
 import React, { useRef, useState } from 'react';
 import { NavLink } from 'react-router-dom';
-import MovieInfo from "../../api/MovieInfo.json";
+import MovieInfo from "../../../public/api/MovieInfo.json";
 import { motion } from 'framer-motion';
 
 function MovieCard() {

@@ -14,7 +14,7 @@ const HouseIDs = () => {
   useEffect(() => {
     const loadHouse = async () => {
       try {
-        const houseModule = await import(`/src/api/HouseInfo/${id}.json`);
+        const houseModule = await import(`../../../public/api/HouseInfo/${id}.json`);
         setHouse(houseModule.default);
       } catch (error) {
         console.error("Error loading house:", error);

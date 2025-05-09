@@ -4,6 +4,7 @@ import { FaDownload, FaSpinner, FaCheck } from 'react-icons/fa';
 import { toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
+
 const BookIDs = () => {
   const { id } = useParams();
   const [book, setBook] = useState(null);
@@ -21,7 +22,7 @@ const BookIDs = () => {
         setError(null);
         
         // Dynamic import of JSON file from public folder
-        const bookData = await import(`/src/api/BookInfo/${id}.json`);
+        const bookData = await import(`../../../public/api/BookInfo/${id}.json`);
         setBook(bookData.default);
       } catch (error) {
         console.error("Failed to load book:", error);

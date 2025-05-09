@@ -1,7 +1,7 @@
 {
     "id": 2,
     "name": "Hufflepuff",
-    "image": "/public/Images/Houses/hufflepuff.png",
+    "image": "/Images/Houses/hufflepuff.png",
     "founder": "Helga Hufflepuff",
     "house_quote": " 'You might belong in Hufflepuff, where they are just and loyal,Those patient Hufflepuffs are true, And unafraid of toil.' — Sorting Hat",
     "house_colors": ["Yellow", "Black"],
@@ -39,19 +39,19 @@
     { 
         "founder":
         {
-            "url": "/public/Images/HouseIdsImage/HHouse/founder.png",
+            "url": "/Images/HouseIdsImage/HHouse/founder.png",
             "caption": "Helga Hufflepuff - Founder of Hufflepuff House"
         },
 
         "common_room":
         {
-            "url": "/public/Images/HouseIdsImage/HHouse/common_room.png",
+            "url": "/Images/HouseIdsImage/HHouse/common_room.png",
             "caption": "Hufflepuff Common Room"
         },
 
         "ghost":
         {
-            "url": "/public/Images/HouseIdsImage/HHouse/ghost.png",
+            "url": "/Images/HouseIdsImage/HHouse/ghost.png",
             "caption": " The Fat Friar - Hufflepuff House Ghost"
         }
     }

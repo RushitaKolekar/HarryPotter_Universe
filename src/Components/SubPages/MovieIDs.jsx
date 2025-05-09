@@ -10,7 +10,7 @@ const MovieIDs = () => {
   useEffect(() => {
     const loadMovie = async () => {
       try {
-        const movieModule = await import(`/src/api/MovieInfo/${id}.json`);
+        const movieModule = await import(`../../../public/api/MovieInfo/${id}.json`);
         setMovie(movieModule.default);
       } catch (error) {
         console.error("Error loading movie:", error);

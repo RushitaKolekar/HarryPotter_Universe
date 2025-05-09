@@ -1,7 +1,7 @@
 {
     "id": 1,
     "name": "Gryffindor",
-    "image": "/public/Images/Houses/GryFFindor-Logo.jpg",
+    "image": "/Images/Houses/GryFFindor-Logo.jpg",
     "founder": "Godric Gryffindor",
     "house_quote": "You might belong in Gryffindor, Where dwell the brave at heart, Their daring, nerve, and chivalry Set Gryffindors apart.   - Sorting Hat",
     "house_colors": ["Scarlet", "Gold"],
@@ -54,38 +54,38 @@
     { 
         "founder":
         {
-            "url": "/public/Images/HouseIdsImage/GHouse/founder.png",
+            "url": "/Images/HouseIdsImage/GHouse/founder.png",
             "caption": "Godric Gryffindor - Founder of Gryffindor House"
         },
 
         "reputation":
         {
-            "url": "/public/Images/HouseIdsImage/GHouse/GSword.png",
+            "url": "/Images/HouseIdsImage/GHouse/GSword.png",
             "caption": "Sword of Gryffindor - A goblin-made sword that belonged to Godric Gryffindor"
            
         },
 
         "trait":
         {
-            "url": "/public/Images/HouseIdsImage/GHouse/GLogo.jpg",
+            "url": "/Images/HouseIdsImage/GHouse/GLogo.jpg",
             "caption": "Gryffindor Logo"
         },
 
         "common_room":
         {
-            "url": "/public/Images/HouseIdsImage/GHouse/common_room.png",
+            "url": "/Images/HouseIdsImage/GHouse/common_room.png",
             "caption": "Gryffindor Common Room"
         },
 
         "ghost":
         {
-            "url": "/public/Images/HouseIdsImage/GHouse/ghost.png",
+            "url": "/Images/HouseIdsImage/GHouse/ghost.png",
             "caption": "Nearly Headless Nick - Gryffindor House Ghost"
         },
 
         "dormitory":
         {
-            "url": "/public/Images/HouseIdsImage/GHouse/boys_dorm.png",
+            "url": "/Images/HouseIdsImage/GHouse/boys_dorm.png",
             "caption": "Gryffindor Boys Dormitory"
         }
     }

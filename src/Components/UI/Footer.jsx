@@ -10,7 +10,7 @@ function Footer() {
         {/* Hogwarts Houses Image - Left Side */}
         <div className="w-full md:w-1/5 flex justify-center md:justify-start">
           <img 
-            src="/public/images/Houses/HlogoBGRemove.png" 
+            src="/Images/Houses/HlogoBGRemove.png" 
             alt="Hogwarts Houses" 
             className="w-full max-w-[120px] md:max-w-[160px] object-contain "
           />
@@ -27,7 +27,7 @@ function Footer() {
             {/* Rotated Sorting Hat - Positioned absolutely on left */}
             <div className="absolute -top-8 left-8 md:left-2 md:-top-10 z-10 w-20 md:w-26"> {/* Positioning */}
               <img 
-                src="/public/images/OtherStuff/sorting-hat.png" 
+                src="/Images/OtherStuff/sorting-hat.png" 
                 alt="Sorting Hat" 
                 className="hat-rotate filter brightness-55 transform -rotate-12" /* Forced rotation */
               />

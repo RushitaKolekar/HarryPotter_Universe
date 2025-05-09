@@ -1,5 +1,5 @@
-import React from 'react'
-import MovieInfo from "../api/MovieInfo.json"
+import React from 'react';
+import MovieInfo from "../../public/api/MovieInfo.json";
 import { NavLink } from 'react-router-dom';
 
 

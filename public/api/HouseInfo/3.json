@@ -2,7 +2,7 @@
     "id": 3,
     "name": "Ravenclaw",
     "founder": "Rowena Ravenclaw",
-    "image": "/public/Images/Houses/RavenclawLogo.jpg",
+    "image": "/Images/Houses/RavenclawLogo.jpg",
     "house_quote": " 'You might belong in Ravenclaw, if you've a ready mind, Where those of wit and learning, Will always find their kind.' — Sorting Hat",
     "house_colors": ["Blue", "Bronze"],
     "animal": "Eagle",
@@ -42,19 +42,19 @@
     { 
         "founder":
         {
-            "url": "/public/Images/HouseIdsImage/RHouse/founder.png",
+            "url": "/Images/HouseIdsImage/RHouse/founder.png",
             "caption": "Rowena Ravenclaw  - Founder of Ravenclaw House"
         },
 
         "common_room":
         {
-            "url": "/public/Images/HouseIdsImage/RHouse/common_room.png",
+            "url": "/Images/HouseIdsImage/RHouse/common_room.png",
             "caption": "Ravenclaw Common Room"
         },
 
         "ghost":
         {
-            "url": "/public/Images/HouseIdsImage/RHouse/ghost.png",
+            "url": "/Images/HouseIdsImage/RHouse/ghost.png",
             "caption": "The Grey Lady - Ravenclaw House Ghost"
         }
     }
