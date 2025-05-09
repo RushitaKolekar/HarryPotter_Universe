@@ -149,7 +149,7 @@ const HeroSection = () => {
           <track
             kind="subtitles"
             srcLang="en"
-            src="/public/Videos/Hogwart.srt"
+            src="/Videos/Hogwart.srt"
             default
           />
         </video>

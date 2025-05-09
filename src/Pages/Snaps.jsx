@@ -5,6 +5,7 @@ const Snaps = () => {
   const [snaps, setSnaps] = useState([]);
 
   useEffect(() => {
+    
     // Load your JSON data (replace with your actual fetch/import)
     const loadSnaps = async () => {
       const response = await fetch('/api/Snaps.json');

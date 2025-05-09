@@ -1,7 +1,7 @@
 {
     "id": 3,
     "title": "Harry Potter and the Prisoner of Azkaban",
-    "image": "//Images/MovieCover/3rd_Prisoner.jpg",
+    "image": "/Images/MovieCover/3rd_Prisoner.jpg",
     "release_year": 2004,
     "runtime": {
       "minutes": 142,

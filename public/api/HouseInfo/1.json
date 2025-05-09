@@ -1,7 +1,7 @@
 {
     "id": 1,
     "name": "Gryffindor",
-    "image": "/Images/Houses/GryFFindor-Logo.jpg",
+    "image": "/Images/Houses/Gryffindor-Logo.jpg",
     "founder": "Godric Gryffindor",
     "house_quote": "You might belong in Gryffindor, Where dwell the brave at heart, Their daring, nerve, and chivalry Set Gryffindors apart.   - Sorting Hat",
     "house_colors": ["Scarlet", "Gold"],
@@ -79,7 +79,7 @@
 
         "ghost":
         {
-            "url": "/Images/HouseIdsImage/GHouse/ghost.png",
+            "url": "/Images/HouseIdsImage/GHouse/Ghost.png",
             "caption": "Nearly Headless Nick - Gryffindor House Ghost"
         },
 
