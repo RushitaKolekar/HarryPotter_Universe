@@ -19,8 +19,7 @@ const BookIDs = () => {
       try {
         setLoading(true);
         setError(null);
-        
-        // IMPORTANT: Use correct path - files should be in public folder
+       
         const response = await fetch(`/src/api/BookInfo/${id}.json`);
         
         if (!response.ok) {
