@@ -2,7 +2,7 @@
       {
         "id": 1,
         "name": "Gryffindor",
-        "image": "/Images/Houses/GryFFindor-Logo.jpg",
+        "image": "/Images/Houses/Gryffindor-Logo.jpg",
         "founder": "Godric Gryffindor",
         "house_quote": "You might belong in Gryffindor, where dwell the brave at heart.",
         "colors": ["Scarlet", "Gold"],
