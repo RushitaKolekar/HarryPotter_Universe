@@ -15,7 +15,7 @@ const HeroSection = () => {
   // Load and parse SRT file
   useEffect(() => {
     const parser = new SrtParser();
-    fetch('/public/Videos/Hogwart.srt')
+    fetch('/Videos/Hogwart.srt')
       .then(response => response.text())
       .then(text => {
         const parsed = parser.fromSrt(text);
