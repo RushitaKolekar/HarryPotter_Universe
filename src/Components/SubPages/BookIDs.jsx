@@ -14,23 +14,38 @@ const BookIDs = () => {
     success: false
   });
 
+  // useEffect(() => {
+  //   const loadBook = async () => {
+  //     try {
+  //       setLoading(true);
+  //       setError(null);
+       
+  //       const response = await fetch(`/src/api/BookInfo/${id}.json`);
+        
+  //       if (!response.ok) {
+  //         throw new Error(`HTTP error! status: ${response.status}`);
+  //       }
+        
+  //       const bookData = await response.json();
+  //       setBook(bookData);
+  //     } catch (error) {
+  //       console.error("Failed to load book:", error);
+  //       setError(error.message);
+  //     } finally {
+  //       setLoading(false);
+  //     }
+  //   };
+
+  //   loadBook();
+  // }, [id]);
+
   useEffect(() => {
     const loadBook = async () => {
       try {
-        setLoading(true);
-        setError(null);
-       
-        const response = await fetch(`/src/api/BookInfo/${id}.json`);
-        
-        if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`);
-        }
-        
-        const bookData = await response.json();
-        setBook(bookData);
+        const bookModule = await import(`/src/api/BookInfo/${id}.json`);
+        setBook(bookModule.default);
       } catch (error) {
-        console.error("Failed to load book:", error);
-        setError(error.message);
+        console.error("Error loading book:", error);
       } finally {
         setLoading(false);
       }
