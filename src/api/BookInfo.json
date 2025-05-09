@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "Harry Potter and the Philosopher's Stone",
-      "image": "/public/Images/Book/1.png",
+      "image": "/Images/Book/1.png",
       "year": 2001,
       "pages": 223,
       "description": "Imagine living under a staircase, bullied by your awful relatives, and knowing nothing about who you really are - until one day, a giant with a pink umbrella knocks down the door and tells you: 'Yer a wizard, Harry!' And just like that, Harry Potter's dull, miserable life explodes into magic...  "
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "title": "Harry Potter and the Chamber of Secrets",
-      "image": "/public/Images/Book/2.png",
+      "image": "/Images/Book/2.png",
       "year": 2002,
       "pages": 251,
       "description": "A year after surviving deadly magic, killer chess, and a face-off with the darkest wizard of all time, Harry Potter just wants a normal summer. But when a tiny, furious house-elf appears in his bedroom, smashes Aunt Petunia's pudding, and warns him Dangerous things lie at Hogwarts this year!' "
@@ -20,7 +20,7 @@
     {
       "id": 3,
       "title": "Harry Potter and the Prisoner of Azkaban",
-      "image": "/public/Images/Book/3.png",
+      "image": "/Images/Book/3.png",
       "year": 2004,
       "pages": 317,
       "description": "Harry's third year at Hogwarts starts with a death sentence.Not for him, for Sirius Black, a mad man who just broke out of Azkaban, the most secure prison in the wizarding world. And according to the Ministry, he's coming for Harry. Personally. But that is not even the worst part. Guarding Hogwarts are the Dementors oul-sucking, happiness draining monsters... "
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "title": "Harry Potter and the Goblet of Fire",
-      "image": "/public/Images/Book/4.png",
+      "image": "/Images/Book/4.png",
       "year": 2005,
       "pages": 636,
       "description": "Harry just wants a normal year at Hogwarts - no murderous wizards, no soul-sucking Dementors, just Quidditch and homework. But when the Triwizard Tournament is announced - a deadly, centuries-old competition between rival wizarding schools. he's sure he's safe. After all, the Goblet of Fire only chooses three champions. Until it spits out a fourth name 'Harry Potter' "
@@ -40,7 +40,7 @@
     {
       "id": 5,
       "title": "Harry Potter and the Order of the Phoenix",
-      "image": "/public/Images/Book/5.png",
+      "image": "/Images/Book/5.png",
       "year": 2007,
       "pages": 766,
       "description": "Harry's worst summer yet ends with a Dementor attack, a shocking expulsion threat, and a clandestine rescue by a flying motorcycle gang. But the real trouble starts when he learns the truth: Voldemort is back and the Ministry of Magic is covering it up.Now, Hogwarts is under siege - not by dark wizards, but by the government itself. "
@@ -50,7 +50,7 @@
     {
       "id": 6,
       "title": "Harry Potter and the Half-Blood Prince",
-      "image": "/public/Images/Book/6.png",
+      "image": "/Images/Book/6.png",
       "year": 2009,
       "pages": 607,
       "description": "The wizarding world is at war. Death Eaters strike in broad daylight. Muggles are vanishing. Even the skies burn over London—but inside Hogwarts, Dumbledore has a mission for Harry. Not defense. Not dueling. A battered old textbook, scribbled with spells darker than anything in the curriculum, falls into Harry's hands. The mysterious 'Half-Blood Prince'... "
@@ -59,7 +59,7 @@
     {
       "id": 7,
       "title": "Harry Potter and the Deathly Hallows",
-      "image": "/public/Images/Book/7.png",
+      "image": "/Images/Book/7.png",
       "year": 2010,
       "pages": 607,
       "description": "The war has begun in earnest. No Hogwarts. No Dumbledore. No turning back. Harry, Ron, and Hermione vanish into the night - not as students, but as fugitives. Their mission: find and destroy Voldemort's Horcruxes, the twisted fragments of soul that keep him immortal. But with Death Eaters in control of the Ministry, and a cursed locket that feeds on their darkest thoughts... "
@@ -68,7 +68,7 @@
     {
       "id": 8,
       "title": "Harry Potter and the Cursed Child",
-      "image": "/public/Images/Book/8.png",
+      "image": "/Images/Book/8.png",
       "year": 2016,
       "pages": 330,
       "description": "Nineteen years after the Battle of Hogwarts, Harry Potter is an overworked Ministry employee, and his youngest son, Albus, struggles with the weight of the family legacy. When Albus and Scorpius Malfoy uncover a dangerous secret, they embark on a time-twisting adventure that could change the past—and the future—forever. Based on the stage play, this story revisits familiar faces..."

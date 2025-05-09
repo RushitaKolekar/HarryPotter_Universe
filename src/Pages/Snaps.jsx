@@ -6,7 +6,7 @@ const Snaps = () => {
   useEffect(() => {
     // Load your JSON data (replace with your actual fetch/import)
     const loadSnaps = async () => {
-      const response = await fetch('/src/api/Snaps.json');
+      const response = await fetch('../api/Snaps.json');
       const data = await response.json();
       // Shuffle array randomly
       setSnaps(data.sort(() => Math.random() - 0.5));
